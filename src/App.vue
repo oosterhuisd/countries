@@ -1,7 +1,6 @@
 <template>
   <div>  
-
-    <div class="flex flex-row flex-wrap justify-start items-center gap-x-3 border rounded p-4 mb-5 bg-gray-100 min-w-ful text-sm">
+    <div class="flex flex-row flex-wrap justify-start items-center gap-x-3 border rounded p-4 mb-5 bg-gray-100 text-sm">
       <div>
         <label>
           <input type="checkbox" class="mr-1" v-model="filters.startsWith" value="1">
@@ -42,7 +41,7 @@
     </div>
 
     <table class="table-auto min-w-full">
-      <caption class="text-right text-gray-400 text-sm">{{ filteredCountries.length }} resultaten</caption>
+      <caption class="text-right text-gray-400 text-sm">{{ sortedCountries.length }} resultaten</caption>
       <tr class="border-b">
           <ColumnHeader
             v-for="(col, index) of columns"
@@ -53,7 +52,7 @@
             :sort-order="sortOrder"
           />
       </tr>
-      <tr class="border-b" v-for="country in filteredCountries" :key="country.code">
+      <tr class="border-b" v-for="country in sortedCountries" :key="country.code">
         <td class="flex items-center p-2">
           <span class="text-4xl pr-4">{{ country.emoji }}</span>
           {{ country.name}}
@@ -81,11 +80,35 @@ const countries = database.data.countries.map((c) => {
 })
 const alphabet = [...Array(26)].map((_, i) => String.fromCharCode(i + 97)); 
 
-let sortedCountries = ref([...countries])
+const filters = reactive({
+  startsWith: false,
+  equalStringLength: false,
+  equalStartLetter: false,
+  equalEndLetter: false
+})
+const filterValues = reactive({
+  startsWith: ''
+})
 
-let filteredCountries = computed(() => {
-  console.log("Re-rendering list")
-  let list = sortedCountries.value
+// Kolommen
+const columns = [
+  { name: 'name', label: 'Land' },
+  { name: 'capital', label: 'Hoofdstad' },
+  { name: 'population', label: 'Inwoners', type: 'numeric' },
+  { name: 'code', label: 'Landcode' },
+  { name: 'languages', label: 'Talen', sortable: false },
+];
+
+// Sorteren
+const sortColumn = ref(columns[0]?.name);
+const sortOrder = ref('asc');
+const sortRows = (column: string, order: string='asc') => {
+    sortOrder.value = order;
+    sortColumn.value = column;
+}
+
+const filteredCountries = computed(() => {
+  let list = [...countries]
   if (filters.startsWith && filterValues.startsWith != '') {
     list = list.filter((c) => c.name.toLowerCase()[0] == filterValues.startsWith || 
       c.capital != null && c.capital.toLowerCase()[0] == filterValues.startsWith);
@@ -99,34 +122,13 @@ let filteredCountries = computed(() => {
   return list;
 });
 
-const filters = reactive({
-  startsWith: false,
-  equalStringLength: false,
-  equalStartLetter: false,
-  equalEndLetter: false
-})
-const filterValues = reactive({
-  startsWith: ''
-})
-
-const columns = [
-  { name: 'country', label: 'Land' },
-  { name: 'capital', label: 'Hoofdstad' },
-  { name: 'population', label: 'Inwoners', type: Number },
-  { name: 'code', label: 'Landcode' },
-  { name: 'languages', label: 'Talen', sortable: false },
-];
-
-// Sorteren
-let sortColumn = ref(columns[0]?.name);
-let sortOrder = ref('asc');
-const sortRows = (column: string, order: string='asc') => {
-    console.log("Ordering by ", column, order)
-    let [c, d] = order == 'asc' ? [1,-1] : [-1,1];    
-    sortedCountries.value.sort((a, b) => a[column] > b[column] ? c : d);
-    sortOrder.value = order;
-    sortColumn.value = column;
-}
-
+const sortedCountries = computed(() => {
+  let [c, d] = sortOrder.value == 'asc' ? [-1,1] : [1,-1];    
+  return [...filteredCountries.value].sort((a, b) => { 
+    if (a[sortColumn.value] === null) return d;
+    if (b[sortColumn.value] === null) return c;
+    return a[sortColumn.value] > b[sortColumn.value] ? c : d
+  });
+});
 
 </script>

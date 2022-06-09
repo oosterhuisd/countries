@@ -1,9 +1,8 @@
 <template>
   <th scope="col" class="text-sm font-medium text-gray-900 p-2 dark:bg-dark-eval-1 dark:text-white"
-    :class="{'text-right': column.type && column.type == Number}"
   >
-    <div class="flex" 
-        :class="{ 'cursor-pointer': column.sortable != false}"
+    <div class="flex"
+        :class="{ 'cursor-pointer': column.sortable != false, 'justify-end': column.type && column.type == 'numeric'}"
         @click.stop="changeSortOrder"
     >
       {{ column.label ?? '' }}
