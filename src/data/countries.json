@@ -8,13 +8,9 @@
         "native": "Andorra",
         "emoji": "🇦🇩",
         "emojiU": "U+1F1E6 U+1F1E9",
-        "languages": [
-          {
-            "name": "Catalan",
-            "native": "Català"
-          }
-        ],
-        "currency": "EUR"
+        "languages": [{ "name": "Catalan", "native": "Català" }],
+        "currency": "EUR",
+        "population": 77006
       },
       {
         "code": "AE",
@@ -23,13 +19,9 @@
         "native": "دولة الإمارات العربية المتحدة",
         "emoji": "🇦🇪",
         "emojiU": "U+1F1E6 U+1F1EA",
-        "languages": [
-          {
-            "name": "Arabic",
-            "native": "العربية"
-          }
-        ],
-        "currency": "AED"
+        "languages": [{ "name": "Arabic", "native": "العربية" }],
+        "currency": "AED",
+        "population": 9630959
       },
       {
         "code": "AF",
@@ -39,20 +31,12 @@
         "emoji": "🇦🇫",
         "emojiU": "U+1F1E6 U+1F1EB",
         "languages": [
-          {
-            "name": "Pashto",
-            "native": "پښتو"
-          },
-          {
-            "name": "Uzbek",
-            "native": "Ўзбек"
-          },
-          {
-            "name": "Turkmen",
-            "native": "Туркмен / تركمن"
-          }
+          { "name": "Pashto", "native": "پښتو" },
+          { "name": "Uzbek", "native": "Ўзбек" },
+          { "name": "Turkmen", "native": "Туркмен / تركمن" }
         ],
-        "currency": "AFN"
+        "currency": "AFN",
+        "population": 37172386
       },
       {
         "code": "AG",
@@ -61,13 +45,9 @@
         "native": "Antigua and Barbuda",
         "emoji": "🇦🇬",
         "emojiU": "U+1F1E6 U+1F1EC",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "XCD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "XCD",
+        "population": 96286
       },
       {
         "code": "AI",
@@ -76,13 +56,9 @@
         "native": "Anguilla",
         "emoji": "🇦🇮",
         "emojiU": "U+1F1E6 U+1F1EE",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "XCD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "XCD",
+        "population": 15094
       },
       {
         "code": "AL",
@@ -91,13 +67,9 @@
         "native": "Shqipëria",
         "emoji": "🇦🇱",
         "emojiU": "U+1F1E6 U+1F1F1",
-        "languages": [
-          {
-            "name": "Albanian",
-            "native": "Shqip"
-          }
-        ],
-        "currency": "ALL"
+        "languages": [{ "name": "Albanian", "native": "Shqip" }],
+        "currency": "ALL",
+        "population": 2866376
       },
       {
         "code": "AM",
@@ -107,16 +79,11 @@
         "emoji": "🇦🇲",
         "emojiU": "U+1F1E6 U+1F1F2",
         "languages": [
-          {
-            "name": "Armenian",
-            "native": "Հայերեն"
-          },
-          {
-            "name": "Russian",
-            "native": "Русский"
-          }
+          { "name": "Armenian", "native": "Հայերեն" },
+          { "name": "Russian", "native": "Русский" }
         ],
-        "currency": "AMD"
+        "currency": "AMD",
+        "population": 2951776
       },
       {
         "code": "AO",
@@ -125,13 +92,9 @@
         "native": "Angola",
         "emoji": "🇦🇴",
         "emojiU": "U+1F1E6 U+1F1F4",
-        "languages": [
-          {
-            "name": "Portuguese",
-            "native": "Português"
-          }
-        ],
-        "currency": "AOA"
+        "languages": [{ "name": "Portuguese", "native": "Português" }],
+        "currency": "AOA",
+        "population": 30809762
       },
       {
         "code": "AQ",
@@ -141,7 +104,8 @@
         "emoji": "🇦🇶",
         "emojiU": "U+1F1E6 U+1F1F6",
         "languages": [],
-        "currency": null
+        "currency": null,
+        "population": 1106
       },
       {
         "code": "AR",
@@ -151,16 +115,11 @@
         "emoji": "🇦🇷",
         "emojiU": "U+1F1E6 U+1F1F7",
         "languages": [
-          {
-            "name": "Spanish",
-            "native": "Español"
-          },
-          {
-            "name": "Guarani",
-            "native": "Avañe'ẽ"
-          }
+          { "name": "Spanish", "native": "Español" },
+          { "name": "Guarani", "native": "Avañe'ẽ" }
         ],
-        "currency": "ARS"
+        "currency": "ARS",
+        "population": 44494502
       },
       {
         "code": "AS",
@@ -170,16 +129,11 @@
         "emoji": "🇦🇸",
         "emojiU": "U+1F1E6 U+1F1F8",
         "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          },
-          {
-            "name": "Samoan",
-            "native": "Gagana Samoa"
-          }
+          { "name": "English", "native": "English" },
+          { "name": "Samoan", "native": "Gagana Samoa" }
         ],
-        "currency": "USD"
+        "currency": "USD",
+        "population": 55465
       },
       {
         "code": "AT",
@@ -188,13 +142,9 @@
         "native": "Österreich",
         "emoji": "🇦🇹",
         "emojiU": "U+1F1E6 U+1F1F9",
-        "languages": [
-          {
-            "name": "German",
-            "native": "Deutsch"
-          }
-        ],
-        "currency": "EUR"
+        "languages": [{ "name": "German", "native": "Deutsch" }],
+        "currency": "EUR",
+        "population": 8840521
       },
       {
         "code": "AU",
@@ -203,13 +153,9 @@
         "native": "Australia",
         "emoji": "🇦🇺",
         "emojiU": "U+1F1E6 U+1F1FA",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "AUD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "AUD",
+        "population": 24982688
       },
       {
         "code": "AW",
@@ -219,16 +165,11 @@
         "emoji": "🇦🇼",
         "emojiU": "U+1F1E6 U+1F1FC",
         "languages": [
-          {
-            "name": "Dutch",
-            "native": "Nederlands"
-          },
-          {
-            "name": "Panjabi / Punjabi",
-            "native": "ਪੰਜਾਬੀ / पंजाबी / پنجابي"
-          }
+          { "name": "Dutch", "native": "Nederlands" },
+          { "name": "Panjabi / Punjabi", "native": "ਪੰਜਾਬੀ / पंजाबी / پنجابي" }
         ],
-        "currency": "AWG"
+        "currency": "AWG",
+        "population": 105845
       },
       {
         "code": "AX",
@@ -237,13 +178,9 @@
         "native": "Åland",
         "emoji": "🇦🇽",
         "emojiU": "U+1F1E6 U+1F1FD",
-        "languages": [
-          {
-            "name": "Swedish",
-            "native": "Svenska"
-          }
-        ],
-        "currency": "EUR"
+        "languages": [{ "name": "Swedish", "native": "Svenska" }],
+        "currency": "EUR",
+        "population": null
       },
       {
         "code": "AZ",
@@ -253,12 +190,10 @@
         "emoji": "🇦🇿",
         "emojiU": "U+1F1E6 U+1F1FF",
         "languages": [
-          {
-            "name": "Azerbaijani",
-            "native": "Azərbaycanca / آذربايجان"
-          }
+          { "name": "Azerbaijani", "native": "Azərbaycanca / آذربايجان" }
         ],
-        "currency": "AZN"
+        "currency": "AZN",
+        "population": 9939800
       },
       {
         "code": "BA",
@@ -268,20 +203,12 @@
         "emoji": "🇧🇦",
         "emojiU": "U+1F1E7 U+1F1E6",
         "languages": [
-          {
-            "name": "Bosnian",
-            "native": "Bosanski"
-          },
-          {
-            "name": "Croatian",
-            "native": "Hrvatski"
-          },
-          {
-            "name": "Serbian",
-            "native": "Српски"
-          }
+          { "name": "Bosnian", "native": "Bosanski" },
+          { "name": "Croatian", "native": "Hrvatski" },
+          { "name": "Serbian", "native": "Српски" }
         ],
-        "currency": "BAM"
+        "currency": "BAM",
+        "population": 3323929
       },
       {
         "code": "BB",
@@ -290,13 +217,9 @@
         "native": "Barbados",
         "emoji": "🇧🇧",
         "emojiU": "U+1F1E7 U+1F1E7",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "BBD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "BBD",
+        "population": 286641
       },
       {
         "code": "BD",
@@ -305,13 +228,9 @@
         "native": "Bangladesh",
         "emoji": "🇧🇩",
         "emojiU": "U+1F1E7 U+1F1E9",
-        "languages": [
-          {
-            "name": "Bengali",
-            "native": "বাংলা"
-          }
-        ],
-        "currency": "BDT"
+        "languages": [{ "name": "Bengali", "native": "বাংলা" }],
+        "currency": "BDT",
+        "population": 161356039
       },
       {
         "code": "BE",
@@ -321,20 +240,12 @@
         "emoji": "🇧🇪",
         "emojiU": "U+1F1E7 U+1F1EA",
         "languages": [
-          {
-            "name": "Dutch",
-            "native": "Nederlands"
-          },
-          {
-            "name": "French",
-            "native": "Français"
-          },
-          {
-            "name": "German",
-            "native": "Deutsch"
-          }
+          { "name": "Dutch", "native": "Nederlands" },
+          { "name": "French", "native": "Français" },
+          { "name": "German", "native": "Deutsch" }
         ],
-        "currency": "EUR"
+        "currency": "EUR",
+        "population": 11433256
       },
       {
         "code": "BF",
@@ -344,16 +255,11 @@
         "emoji": "🇧🇫",
         "emojiU": "U+1F1E7 U+1F1EB",
         "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          },
-          {
-            "name": "Peul",
-            "native": "Fulfulde"
-          }
+          { "name": "French", "native": "Français" },
+          { "name": "Peul", "native": "Fulfulde" }
         ],
-        "currency": "XOF"
+        "currency": "XOF",
+        "population": 19751535
       },
       {
         "code": "BG",
@@ -362,13 +268,9 @@
         "native": "България",
         "emoji": "🇧🇬",
         "emojiU": "U+1F1E7 U+1F1EC",
-        "languages": [
-          {
-            "name": "Bulgarian",
-            "native": "Български"
-          }
-        ],
-        "currency": "BGN"
+        "languages": [{ "name": "Bulgarian", "native": "Български" }],
+        "currency": "BGN",
+        "population": 7025037
       },
       {
         "code": "BH",
@@ -377,13 +279,9 @@
         "native": "‏البحرين",
         "emoji": "🇧🇭",
         "emojiU": "U+1F1E7 U+1F1ED",
-        "languages": [
-          {
-            "name": "Arabic",
-            "native": "العربية"
-          }
-        ],
-        "currency": "BHD"
+        "languages": [{ "name": "Arabic", "native": "العربية" }],
+        "currency": "BHD",
+        "population": 1569439
       },
       {
         "code": "BI",
@@ -393,16 +291,11 @@
         "emoji": "🇧🇮",
         "emojiU": "U+1F1E7 U+1F1EE",
         "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          },
-          {
-            "name": "Kirundi",
-            "native": "Kirundi"
-          }
+          { "name": "French", "native": "Français" },
+          { "name": "Kirundi", "native": "Kirundi" }
         ],
-        "currency": "BIF"
+        "currency": "BIF",
+        "population": 11175378
       },
       {
         "code": "BJ",
@@ -411,13 +304,9 @@
         "native": "Bénin",
         "emoji": "🇧🇯",
         "emojiU": "U+1F1E7 U+1F1EF",
-        "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          }
-        ],
-        "currency": "XOF"
+        "languages": [{ "name": "French", "native": "Français" }],
+        "currency": "XOF",
+        "population": 11485048
       },
       {
         "code": "BL",
@@ -426,13 +315,9 @@
         "native": "Saint-Barthélemy",
         "emoji": "🇧🇱",
         "emojiU": "U+1F1E7 U+1F1F1",
-        "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          }
-        ],
-        "currency": "EUR"
+        "languages": [{ "name": "French", "native": "Français" }],
+        "currency": "EUR",
+        "population": null
       },
       {
         "code": "BM",
@@ -441,13 +326,9 @@
         "native": "Bermuda",
         "emoji": "🇧🇲",
         "emojiU": "U+1F1E7 U+1F1F2",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "BMD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "BMD",
+        "population": 63973
       },
       {
         "code": "BN",
@@ -456,13 +337,9 @@
         "native": "Negara Brunei Darussalam",
         "emoji": "🇧🇳",
         "emojiU": "U+1F1E7 U+1F1F3",
-        "languages": [
-          {
-            "name": "Malay",
-            "native": "Bahasa Melayu"
-          }
-        ],
-        "currency": "BND"
+        "languages": [{ "name": "Malay", "native": "Bahasa Melayu" }],
+        "currency": "BND",
+        "population": 428962
       },
       {
         "code": "BO",
@@ -472,20 +349,12 @@
         "emoji": "🇧🇴",
         "emojiU": "U+1F1E7 U+1F1F4",
         "languages": [
-          {
-            "name": "Spanish",
-            "native": "Español"
-          },
-          {
-            "name": "Aymara",
-            "native": "Aymar"
-          },
-          {
-            "name": "Quechua",
-            "native": "Runa Simi"
-          }
+          { "name": "Spanish", "native": "Español" },
+          { "name": "Aymara", "native": "Aymar" },
+          { "name": "Quechua", "native": "Runa Simi" }
         ],
-        "currency": "BOB,BOV"
+        "currency": "BOB,BOV",
+        "population": 11353142
       },
       {
         "code": "BQ",
@@ -494,13 +363,9 @@
         "native": "Bonaire",
         "emoji": "🇧🇶",
         "emojiU": "U+1F1E7 U+1F1F6",
-        "languages": [
-          {
-            "name": "Dutch",
-            "native": "Nederlands"
-          }
-        ],
-        "currency": "USD"
+        "languages": [{ "name": "Dutch", "native": "Nederlands" }],
+        "currency": "USD",
+        "population": null
       },
       {
         "code": "BR",
@@ -509,13 +374,9 @@
         "native": "Brasil",
         "emoji": "🇧🇷",
         "emojiU": "U+1F1E7 U+1F1F7",
-        "languages": [
-          {
-            "name": "Portuguese",
-            "native": "Português"
-          }
-        ],
-        "currency": "BRL"
+        "languages": [{ "name": "Portuguese", "native": "Português" }],
+        "currency": "BRL",
+        "population": 209469333
       },
       {
         "code": "BS",
@@ -524,13 +385,9 @@
         "native": "Bahamas",
         "emoji": "🇧🇸",
         "emojiU": "U+1F1E7 U+1F1F8",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "BSD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "BSD",
+        "population": 385640
       },
       {
         "code": "BT",
@@ -539,13 +396,9 @@
         "native": "ʼbrug-yul",
         "emoji": "🇧🇹",
         "emojiU": "U+1F1E7 U+1F1F9",
-        "languages": [
-          {
-            "name": "Dzongkha",
-            "native": "ཇོང་ཁ"
-          }
-        ],
-        "currency": "BTN,INR"
+        "languages": [{ "name": "Dzongkha", "native": "ཇོང་ཁ" }],
+        "currency": "BTN,INR",
+        "population": 754394
       },
       {
         "code": "BV",
@@ -555,20 +408,12 @@
         "emoji": "🇧🇻",
         "emojiU": "U+1F1E7 U+1F1FB",
         "languages": [
-          {
-            "name": "Norwegian",
-            "native": "Norsk"
-          },
-          {
-            "name": "Norwegian Bokmål",
-            "native": "Norsk bokmål"
-          },
-          {
-            "name": "Norwegian Nynorsk",
-            "native": "Norsk nynorsk"
-          }
+          { "name": "Norwegian", "native": "Norsk" },
+          { "name": "Norwegian Bokmål", "native": "Norsk bokmål" },
+          { "name": "Norwegian Nynorsk", "native": "Norsk nynorsk" }
         ],
-        "currency": "NOK"
+        "currency": "NOK",
+        "population": 0
       },
       {
         "code": "BW",
@@ -578,16 +423,11 @@
         "emoji": "🇧🇼",
         "emojiU": "U+1F1E7 U+1F1FC",
         "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          },
-          {
-            "name": "Tswana",
-            "native": "Setswana"
-          }
+          { "name": "English", "native": "English" },
+          { "name": "Tswana", "native": "Setswana" }
         ],
-        "currency": "BWP"
+        "currency": "BWP",
+        "population": 2254126
       },
       {
         "code": "BY",
@@ -597,16 +437,11 @@
         "emoji": "🇧🇾",
         "emojiU": "U+1F1E7 U+1F1FE",
         "languages": [
-          {
-            "name": "Belarusian",
-            "native": "Беларуская"
-          },
-          {
-            "name": "Russian",
-            "native": "Русский"
-          }
+          { "name": "Belarusian", "native": "Беларуская" },
+          { "name": "Russian", "native": "Русский" }
         ],
-        "currency": "BYN"
+        "currency": "BYN",
+        "population": 9483499
       },
       {
         "code": "BZ",
@@ -616,16 +451,11 @@
         "emoji": "🇧🇿",
         "emojiU": "U+1F1E7 U+1F1FF",
         "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          },
-          {
-            "name": "Spanish",
-            "native": "Español"
-          }
+          { "name": "English", "native": "English" },
+          { "name": "Spanish", "native": "Español" }
         ],
-        "currency": "BZD"
+        "currency": "BZD",
+        "population": 383071
       },
       {
         "code": "CA",
@@ -635,16 +465,11 @@
         "emoji": "🇨🇦",
         "emojiU": "U+1F1E8 U+1F1E6",
         "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          },
-          {
-            "name": "French",
-            "native": "Français"
-          }
+          { "name": "English", "native": "English" },
+          { "name": "French", "native": "Français" }
         ],
-        "currency": "CAD"
+        "currency": "CAD",
+        "population": 37057765
       },
       {
         "code": "CC",
@@ -653,13 +478,9 @@
         "native": "Cocos (Keeling) Islands",
         "emoji": "🇨🇨",
         "emojiU": "U+1F1E8 U+1F1E8",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "AUD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "AUD",
+        "population": null
       },
       {
         "code": "CD",
@@ -669,28 +490,14 @@
         "emoji": "🇨🇩",
         "emojiU": "U+1F1E8 U+1F1E9",
         "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          },
-          {
-            "name": "Lingala",
-            "native": "Lingála"
-          },
-          {
-            "name": "Kongo",
-            "native": "KiKongo"
-          },
-          {
-            "name": "Swahili",
-            "native": "Kiswahili"
-          },
-          {
-            "name": "Luba-Katanga",
-            "native": "Tshiluba"
-          }
+          { "name": "French", "native": "Français" },
+          { "name": "Lingala", "native": "Lingála" },
+          { "name": "Kongo", "native": "KiKongo" },
+          { "name": "Swahili", "native": "Kiswahili" },
+          { "name": "Luba-Katanga", "native": "Tshiluba" }
         ],
-        "currency": "CDF"
+        "currency": "CDF",
+        "population": 84068091
       },
       {
         "code": "CF",
@@ -700,16 +507,11 @@
         "emoji": "🇨🇫",
         "emojiU": "U+1F1E8 U+1F1EB",
         "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          },
-          {
-            "name": "Sango",
-            "native": "Sängö"
-          }
+          { "name": "French", "native": "Français" },
+          { "name": "Sango", "native": "Sängö" }
         ],
-        "currency": "XAF"
+        "currency": "XAF",
+        "population": 4666377
       },
       {
         "code": "CG",
@@ -719,16 +521,11 @@
         "emoji": "🇨🇬",
         "emojiU": "U+1F1E8 U+1F1EC",
         "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          },
-          {
-            "name": "Lingala",
-            "native": "Lingála"
-          }
+          { "name": "French", "native": "Français" },
+          { "name": "Lingala", "native": "Lingála" }
         ],
-        "currency": "XAF"
+        "currency": "XAF",
+        "population": null
       },
       {
         "code": "CH",
@@ -738,20 +535,12 @@
         "emoji": "🇨🇭",
         "emojiU": "U+1F1E8 U+1F1ED",
         "languages": [
-          {
-            "name": "German",
-            "native": "Deutsch"
-          },
-          {
-            "name": "French",
-            "native": "Français"
-          },
-          {
-            "name": "Italian",
-            "native": "Italiano"
-          }
+          { "name": "German", "native": "Deutsch" },
+          { "name": "French", "native": "Français" },
+          { "name": "Italian", "native": "Italiano" }
         ],
-        "currency": "CHE,CHF,CHW"
+        "currency": "CHE,CHF,CHW",
+        "population": 8513227
       },
       {
         "code": "CI",
@@ -760,13 +549,9 @@
         "native": "Côte d'Ivoire",
         "emoji": "🇨🇮",
         "emojiU": "U+1F1E8 U+1F1EE",
-        "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          }
-        ],
-        "currency": "XOF"
+        "languages": [{ "name": "French", "native": "Français" }],
+        "currency": "XOF",
+        "population": 25069229
       },
       {
         "code": "CK",
@@ -775,13 +560,9 @@
         "native": "Cook Islands",
         "emoji": "🇨🇰",
         "emojiU": "U+1F1E8 U+1F1F0",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "NZD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "NZD",
+        "population": 17379
       },
       {
         "code": "CL",
@@ -790,13 +571,9 @@
         "native": "Chile",
         "emoji": "🇨🇱",
         "emojiU": "U+1F1E8 U+1F1F1",
-        "languages": [
-          {
-            "name": "Spanish",
-            "native": "Español"
-          }
-        ],
-        "currency": "CLF,CLP"
+        "languages": [{ "name": "Spanish", "native": "Español" }],
+        "currency": "CLF,CLP",
+        "population": 18729160
       },
       {
         "code": "CM",
@@ -806,16 +583,11 @@
         "emoji": "🇨🇲",
         "emojiU": "U+1F1E8 U+1F1F2",
         "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          },
-          {
-            "name": "French",
-            "native": "Français"
-          }
+          { "name": "English", "native": "English" },
+          { "name": "French", "native": "Français" }
         ],
-        "currency": "XAF"
+        "currency": "XAF",
+        "population": 25216237
       },
       {
         "code": "CN",
@@ -824,13 +596,9 @@
         "native": "中国",
         "emoji": "🇨🇳",
         "emojiU": "U+1F1E8 U+1F1F3",
-        "languages": [
-          {
-            "name": "Chinese",
-            "native": "中文"
-          }
-        ],
-        "currency": "CNY"
+        "languages": [{ "name": "Chinese", "native": "中文" }],
+        "currency": "CNY",
+        "population": 1392730000
       },
       {
         "code": "CO",
@@ -839,13 +607,9 @@
         "native": "Colombia",
         "emoji": "🇨🇴",
         "emojiU": "U+1F1E8 U+1F1F4",
-        "languages": [
-          {
-            "name": "Spanish",
-            "native": "Español"
-          }
-        ],
-        "currency": "COP"
+        "languages": [{ "name": "Spanish", "native": "Español" }],
+        "currency": "COP",
+        "population": 49648685
       },
       {
         "code": "CR",
@@ -854,13 +618,9 @@
         "native": "Costa Rica",
         "emoji": "🇨🇷",
         "emojiU": "U+1F1E8 U+1F1F7",
-        "languages": [
-          {
-            "name": "Spanish",
-            "native": "Español"
-          }
-        ],
-        "currency": "CRC"
+        "languages": [{ "name": "Spanish", "native": "Español" }],
+        "currency": "CRC",
+        "population": 4999441
       },
       {
         "code": "CU",
@@ -869,13 +629,9 @@
         "native": "Cuba",
         "emoji": "🇨🇺",
         "emojiU": "U+1F1E8 U+1F1FA",
-        "languages": [
-          {
-            "name": "Spanish",
-            "native": "Español"
-          }
-        ],
-        "currency": "CUC,CUP"
+        "languages": [{ "name": "Spanish", "native": "Español" }],
+        "currency": "CUC,CUP",
+        "population": 11338138
       },
       {
         "code": "CV",
@@ -884,13 +640,9 @@
         "native": "Cabo Verde",
         "emoji": "🇨🇻",
         "emojiU": "U+1F1E8 U+1F1FB",
-        "languages": [
-          {
-            "name": "Portuguese",
-            "native": "Português"
-          }
-        ],
-        "currency": "CVE"
+        "languages": [{ "name": "Portuguese", "native": "Português" }],
+        "currency": "CVE",
+        "population": 543767
       },
       {
         "code": "CW",
@@ -900,20 +652,12 @@
         "emoji": "🇨🇼",
         "emojiU": "U+1F1E8 U+1F1FC",
         "languages": [
-          {
-            "name": "Dutch",
-            "native": "Nederlands"
-          },
-          {
-            "name": "Panjabi / Punjabi",
-            "native": "ਪੰਜਾਬੀ / पंजाबी / پنجابي"
-          },
-          {
-            "name": "English",
-            "native": "English"
-          }
+          { "name": "Dutch", "native": "Nederlands" },
+          { "name": "Panjabi / Punjabi", "native": "ਪੰਜਾਬੀ / पंजाबी / پنجابي" },
+          { "name": "English", "native": "English" }
         ],
-        "currency": "ANG"
+        "currency": "ANG",
+        "population": null
       },
       {
         "code": "CX",
@@ -922,13 +666,9 @@
         "native": "Christmas Island",
         "emoji": "🇨🇽",
         "emojiU": "U+1F1E8 U+1F1FD",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "AUD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "AUD",
+        "population": 1402
       },
       {
         "code": "CY",
@@ -938,20 +678,12 @@
         "emoji": "🇨🇾",
         "emojiU": "U+1F1E8 U+1F1FE",
         "languages": [
-          {
-            "name": "Greek",
-            "native": "Ελληνικά"
-          },
-          {
-            "name": "Turkish",
-            "native": "Türkçe"
-          },
-          {
-            "name": "Armenian",
-            "native": "Հայերեն"
-          }
+          { "name": "Greek", "native": "Ελληνικά" },
+          { "name": "Turkish", "native": "Türkçe" },
+          { "name": "Armenian", "native": "Հայերեն" }
         ],
-        "currency": "EUR"
+        "currency": "EUR",
+        "population": 1189265
       },
       {
         "code": "CZ",
@@ -961,16 +693,11 @@
         "emoji": "🇨🇿",
         "emojiU": "U+1F1E8 U+1F1FF",
         "languages": [
-          {
-            "name": "Czech",
-            "native": "Česky"
-          },
-          {
-            "name": "Slovak",
-            "native": "Slovenčina"
-          }
+          { "name": "Czech", "native": "Česky" },
+          { "name": "Slovak", "native": "Slovenčina" }
         ],
-        "currency": "CZK"
+        "currency": "CZK",
+        "population": 10629928
       },
       {
         "code": "DE",
@@ -979,13 +706,9 @@
         "native": "Deutschland",
         "emoji": "🇩🇪",
         "emojiU": "U+1F1E9 U+1F1EA",
-        "languages": [
-          {
-            "name": "German",
-            "native": "Deutsch"
-          }
-        ],
-        "currency": "EUR"
+        "languages": [{ "name": "German", "native": "Deutsch" }],
+        "currency": "EUR",
+        "population": 82905782
       },
       {
         "code": "DJ",
@@ -995,16 +718,11 @@
         "emoji": "🇩🇯",
         "emojiU": "U+1F1E9 U+1F1EF",
         "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          },
-          {
-            "name": "Arabic",
-            "native": "العربية"
-          }
+          { "name": "French", "native": "Français" },
+          { "name": "Arabic", "native": "العربية" }
         ],
-        "currency": "DJF"
+        "currency": "DJF",
+        "population": 958920
       },
       {
         "code": "DK",
@@ -1013,13 +731,9 @@
         "native": "Danmark",
         "emoji": "🇩🇰",
         "emojiU": "U+1F1E9 U+1F1F0",
-        "languages": [
-          {
-            "name": "Danish",
-            "native": "Dansk"
-          }
-        ],
-        "currency": "DKK"
+        "languages": [{ "name": "Danish", "native": "Dansk" }],
+        "currency": "DKK",
+        "population": 5793636
       },
       {
         "code": "DM",
@@ -1028,13 +742,9 @@
         "native": "Dominica",
         "emoji": "🇩🇲",
         "emojiU": "U+1F1E9 U+1F1F2",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "XCD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "XCD",
+        "population": 71625
       },
       {
         "code": "DO",
@@ -1043,13 +753,9 @@
         "native": "República Dominicana",
         "emoji": "🇩🇴",
         "emojiU": "U+1F1E9 U+1F1F4",
-        "languages": [
-          {
-            "name": "Spanish",
-            "native": "Español"
-          }
-        ],
-        "currency": "DOP"
+        "languages": [{ "name": "Spanish", "native": "Español" }],
+        "currency": "DOP",
+        "population": 10627165
       },
       {
         "code": "DZ",
@@ -1058,13 +764,9 @@
         "native": "الجزائر",
         "emoji": "🇩🇿",
         "emojiU": "U+1F1E9 U+1F1FF",
-        "languages": [
-          {
-            "name": "Arabic",
-            "native": "العربية"
-          }
-        ],
-        "currency": "DZD"
+        "languages": [{ "name": "Arabic", "native": "العربية" }],
+        "currency": "DZD",
+        "population": 42228429
       },
       {
         "code": "EC",
@@ -1073,13 +775,9 @@
         "native": "Ecuador",
         "emoji": "🇪🇨",
         "emojiU": "U+1F1EA U+1F1E8",
-        "languages": [
-          {
-            "name": "Spanish",
-            "native": "Español"
-          }
-        ],
-        "currency": "USD"
+        "languages": [{ "name": "Spanish", "native": "Español" }],
+        "currency": "USD",
+        "population": 17084357
       },
       {
         "code": "EE",
@@ -1088,13 +786,9 @@
         "native": "Eesti",
         "emoji": "🇪🇪",
         "emojiU": "U+1F1EA U+1F1EA",
-        "languages": [
-          {
-            "name": "Estonian",
-            "native": "Eesti"
-          }
-        ],
-        "currency": "EUR"
+        "languages": [{ "name": "Estonian", "native": "Eesti" }],
+        "currency": "EUR",
+        "population": 1321977
       },
       {
         "code": "EG",
@@ -1103,13 +797,9 @@
         "native": "مصر‎",
         "emoji": "🇪🇬",
         "emojiU": "U+1F1EA U+1F1EC",
-        "languages": [
-          {
-            "name": "Arabic",
-            "native": "العربية"
-          }
-        ],
-        "currency": "EGP"
+        "languages": [{ "name": "Arabic", "native": "العربية" }],
+        "currency": "EGP",
+        "population": 98423595
       },
       {
         "code": "EH",
@@ -1118,13 +808,9 @@
         "native": "الصحراء الغربية",
         "emoji": "🇪🇭",
         "emojiU": "U+1F1EA U+1F1ED",
-        "languages": [
-          {
-            "name": "Spanish",
-            "native": "Español"
-          }
-        ],
-        "currency": "MAD,DZD,MRU"
+        "languages": [{ "name": "Spanish", "native": "Español" }],
+        "currency": "MAD,DZD,MRU",
+        "population": 652271
       },
       {
         "code": "ER",
@@ -1134,20 +820,12 @@
         "emoji": "🇪🇷",
         "emojiU": "U+1F1EA U+1F1F7",
         "languages": [
-          {
-            "name": "Tigrinya",
-            "native": "ትግርኛ"
-          },
-          {
-            "name": "Arabic",
-            "native": "العربية"
-          },
-          {
-            "name": "English",
-            "native": "English"
-          }
+          { "name": "Tigrinya", "native": "ትግርኛ" },
+          { "name": "Arabic", "native": "العربية" },
+          { "name": "English", "native": "English" }
         ],
-        "currency": "ERN"
+        "currency": "ERN",
+        "population": 6213972
       },
       {
         "code": "ES",
@@ -1157,28 +835,14 @@
         "emoji": "🇪🇸",
         "emojiU": "U+1F1EA U+1F1F8",
         "languages": [
-          {
-            "name": "Spanish",
-            "native": "Español"
-          },
-          {
-            "name": "Basque",
-            "native": "Euskara"
-          },
-          {
-            "name": "Catalan",
-            "native": "Català"
-          },
-          {
-            "name": "Galician",
-            "native": "Galego"
-          },
-          {
-            "name": "Occitan",
-            "native": "Occitan"
-          }
+          { "name": "Spanish", "native": "Español" },
+          { "name": "Basque", "native": "Euskara" },
+          { "name": "Catalan", "native": "Català" },
+          { "name": "Galician", "native": "Galego" },
+          { "name": "Occitan", "native": "Occitan" }
         ],
-        "currency": "EUR"
+        "currency": "EUR",
+        "population": 46796540
       },
       {
         "code": "ET",
@@ -1187,13 +851,9 @@
         "native": "ኢትዮጵያ",
         "emoji": "🇪🇹",
         "emojiU": "U+1F1EA U+1F1F9",
-        "languages": [
-          {
-            "name": "Amharic",
-            "native": "አማርኛ"
-          }
-        ],
-        "currency": "ETB"
+        "languages": [{ "name": "Amharic", "native": "አማርኛ" }],
+        "currency": "ETB",
+        "population": 109224559
       },
       {
         "code": "FI",
@@ -1203,16 +863,11 @@
         "emoji": "🇫🇮",
         "emojiU": "U+1F1EB U+1F1EE",
         "languages": [
-          {
-            "name": "Finnish",
-            "native": "Suomi"
-          },
-          {
-            "name": "Swedish",
-            "native": "Svenska"
-          }
+          { "name": "Finnish", "native": "Suomi" },
+          { "name": "Swedish", "native": "Svenska" }
         ],
-        "currency": "EUR"
+        "currency": "EUR",
+        "population": 5515525
       },
       {
         "code": "FJ",
@@ -1222,24 +877,13 @@
         "emoji": "🇫🇯",
         "emojiU": "U+1F1EB U+1F1EF",
         "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          },
-          {
-            "name": "Fijian",
-            "native": "Na Vosa Vakaviti"
-          },
-          {
-            "name": "Hindi",
-            "native": "हिन्दी"
-          },
-          {
-            "name": "Urdu",
-            "native": "اردو"
-          }
+          { "name": "English", "native": "English" },
+          { "name": "Fijian", "native": "Na Vosa Vakaviti" },
+          { "name": "Hindi", "native": "हिन्दी" },
+          { "name": "Urdu", "native": "اردو" }
         ],
-        "currency": "FJD"
+        "currency": "FJD",
+        "population": 883483
       },
       {
         "code": "FK",
@@ -1248,13 +892,9 @@
         "native": "Falkland Islands",
         "emoji": "🇫🇰",
         "emojiU": "U+1F1EB U+1F1F0",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "FKP"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "FKP",
+        "population": 2840
       },
       {
         "code": "FM",
@@ -1263,13 +903,9 @@
         "native": "Micronesia",
         "emoji": "🇫🇲",
         "emojiU": "U+1F1EB U+1F1F2",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "USD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "USD",
+        "population": 112640
       },
       {
         "code": "FO",
@@ -1278,13 +914,9 @@
         "native": "Føroyar",
         "emoji": "🇫🇴",
         "emojiU": "U+1F1EB U+1F1F4",
-        "languages": [
-          {
-            "name": "Faroese",
-            "native": "Føroyskt"
-          }
-        ],
-        "currency": "DKK"
+        "languages": [{ "name": "Faroese", "native": "Føroyskt" }],
+        "currency": "DKK",
+        "population": 48497
       },
       {
         "code": "FR",
@@ -1293,13 +925,9 @@
         "native": "France",
         "emoji": "🇫🇷",
         "emojiU": "U+1F1EB U+1F1F7",
-        "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          }
-        ],
-        "currency": "EUR"
+        "languages": [{ "name": "French", "native": "Français" }],
+        "currency": "EUR",
+        "population": 66977107
       },
       {
         "code": "GA",
@@ -1308,13 +936,9 @@
         "native": "Gabon",
         "emoji": "🇬🇦",
         "emojiU": "U+1F1EC U+1F1E6",
-        "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          }
-        ],
-        "currency": "XAF"
+        "languages": [{ "name": "French", "native": "Français" }],
+        "currency": "XAF",
+        "population": 2119275
       },
       {
         "code": "GB",
@@ -1323,13 +947,9 @@
         "native": "United Kingdom",
         "emoji": "🇬🇧",
         "emojiU": "U+1F1EC U+1F1E7",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "GBP"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "GBP",
+        "population": 66460344
       },
       {
         "code": "GD",
@@ -1338,13 +958,9 @@
         "native": "Grenada",
         "emoji": "🇬🇩",
         "emojiU": "U+1F1EC U+1F1E9",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "XCD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "XCD",
+        "population": 111454
       },
       {
         "code": "GE",
@@ -1353,13 +969,9 @@
         "native": "საქართველო",
         "emoji": "🇬🇪",
         "emojiU": "U+1F1EC U+1F1EA",
-        "languages": [
-          {
-            "name": "Georgian",
-            "native": "ქართული"
-          }
-        ],
-        "currency": "GEL"
+        "languages": [{ "name": "Georgian", "native": "ქართული" }],
+        "currency": "GEL",
+        "population": 3726549
       },
       {
         "code": "GF",
@@ -1368,13 +980,9 @@
         "native": "Guyane française",
         "emoji": "🇬🇫",
         "emojiU": "U+1F1EC U+1F1EB",
-        "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          }
-        ],
-        "currency": "EUR"
+        "languages": [{ "name": "French", "native": "Français" }],
+        "currency": "EUR",
+        "population": 290691
       },
       {
         "code": "GG",
@@ -1384,16 +992,11 @@
         "emoji": "🇬🇬",
         "emojiU": "U+1F1EC U+1F1EC",
         "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          },
-          {
-            "name": "French",
-            "native": "Français"
-          }
+          { "name": "English", "native": "English" },
+          { "name": "French", "native": "Français" }
         ],
-        "currency": "GBP"
+        "currency": "GBP",
+        "population": null
       },
       {
         "code": "GH",
@@ -1402,13 +1005,9 @@
         "native": "Ghana",
         "emoji": "🇬🇭",
         "emojiU": "U+1F1EC U+1F1ED",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "GHS"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "GHS",
+        "population": 29767108
       },
       {
         "code": "GI",
@@ -1417,13 +1016,9 @@
         "native": "Gibraltar",
         "emoji": "🇬🇮",
         "emojiU": "U+1F1EC U+1F1EE",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "GIP"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "GIP",
+        "population": 33718
       },
       {
         "code": "GL",
@@ -1432,13 +1027,9 @@
         "native": "Kalaallit Nunaat",
         "emoji": "🇬🇱",
         "emojiU": "U+1F1EC U+1F1F1",
-        "languages": [
-          {
-            "name": "Greenlandic",
-            "native": "Kalaallisut"
-          }
-        ],
-        "currency": "DKK"
+        "languages": [{ "name": "Greenlandic", "native": "Kalaallisut" }],
+        "currency": "DKK",
+        "population": 56025
       },
       {
         "code": "GM",
@@ -1447,13 +1038,9 @@
         "native": "Gambia",
         "emoji": "🇬🇲",
         "emojiU": "U+1F1EC U+1F1F2",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "GMD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "GMD",
+        "population": 2280102
       },
       {
         "code": "GN",
@@ -1463,16 +1050,11 @@
         "emoji": "🇬🇳",
         "emojiU": "U+1F1EC U+1F1F3",
         "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          },
-          {
-            "name": "Peul",
-            "native": "Fulfulde"
-          }
+          { "name": "French", "native": "Français" },
+          { "name": "Peul", "native": "Fulfulde" }
         ],
-        "currency": "GNF"
+        "currency": "GNF",
+        "population": 12414318
       },
       {
         "code": "GP",
@@ -1481,13 +1063,9 @@
         "native": "Guadeloupe",
         "emoji": "🇬🇵",
         "emojiU": "U+1F1EC U+1F1F5",
-        "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          }
-        ],
-        "currency": "EUR"
+        "languages": [{ "name": "French", "native": "Français" }],
+        "currency": "EUR",
+        "population": 395700
       },
       {
         "code": "GQ",
@@ -1497,16 +1075,11 @@
         "emoji": "🇬🇶",
         "emojiU": "U+1F1EC U+1F1F6",
         "languages": [
-          {
-            "name": "Spanish",
-            "native": "Español"
-          },
-          {
-            "name": "French",
-            "native": "Français"
-          }
+          { "name": "Spanish", "native": "Español" },
+          { "name": "French", "native": "Français" }
         ],
-        "currency": "XAF"
+        "currency": "XAF",
+        "population": 1308974
       },
       {
         "code": "GR",
@@ -1515,13 +1088,9 @@
         "native": "Ελλάδα",
         "emoji": "🇬🇷",
         "emojiU": "U+1F1EC U+1F1F7",
-        "languages": [
-          {
-            "name": "Greek",
-            "native": "Ελληνικά"
-          }
-        ],
-        "currency": "EUR"
+        "languages": [{ "name": "Greek", "native": "Ελληνικά" }],
+        "currency": "EUR",
+        "population": 10731726
       },
       {
         "code": "GS",
@@ -1530,13 +1099,9 @@
         "native": "South Georgia",
         "emoji": "🇬🇸",
         "emojiU": "U+1F1EC U+1F1F8",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "GBP"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "GBP",
+        "population": 30
       },
       {
         "code": "GT",
@@ -1545,13 +1110,9 @@
         "native": "Guatemala",
         "emoji": "🇬🇹",
         "emojiU": "U+1F1EC U+1F1F9",
-        "languages": [
-          {
-            "name": "Spanish",
-            "native": "Español"
-          }
-        ],
-        "currency": "GTQ"
+        "languages": [{ "name": "Spanish", "native": "Español" }],
+        "currency": "GTQ",
+        "population": 17247807
       },
       {
         "code": "GU",
@@ -1561,20 +1122,12 @@
         "emoji": "🇬🇺",
         "emojiU": "U+1F1EC U+1F1FA",
         "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          },
-          {
-            "name": "Chamorro",
-            "native": "Chamoru"
-          },
-          {
-            "name": "Spanish",
-            "native": "Español"
-          }
+          { "name": "English", "native": "English" },
+          { "name": "Chamorro", "native": "Chamoru" },
+          { "name": "Spanish", "native": "Español" }
         ],
-        "currency": "USD"
+        "currency": "USD",
+        "population": 165768
       },
       {
         "code": "GW",
@@ -1583,13 +1136,9 @@
         "native": "Guiné-Bissau",
         "emoji": "🇬🇼",
         "emojiU": "U+1F1EC U+1F1FC",
-        "languages": [
-          {
-            "name": "Portuguese",
-            "native": "Português"
-          }
-        ],
-        "currency": "XOF"
+        "languages": [{ "name": "Portuguese", "native": "Português" }],
+        "currency": "XOF",
+        "population": 1874309
       },
       {
         "code": "GY",
@@ -1598,13 +1147,9 @@
         "native": "Guyana",
         "emoji": "🇬🇾",
         "emojiU": "U+1F1EC U+1F1FE",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "GYD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "GYD",
+        "population": 779004
       },
       {
         "code": "HK",
@@ -1614,16 +1159,11 @@
         "emoji": "🇭🇰",
         "emojiU": "U+1F1ED U+1F1F0",
         "languages": [
-          {
-            "name": "Chinese",
-            "native": "中文"
-          },
-          {
-            "name": "English",
-            "native": "English"
-          }
+          { "name": "Chinese", "native": "中文" },
+          { "name": "English", "native": "English" }
         ],
-        "currency": "HKD"
+        "currency": "HKD",
+        "population": 7451000
       },
       {
         "code": "HM",
@@ -1632,13 +1172,9 @@
         "native": "Heard Island and McDonald Islands",
         "emoji": "🇭🇲",
         "emojiU": "U+1F1ED U+1F1F2",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "AUD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "AUD",
+        "population": 0
       },
       {
         "code": "HN",
@@ -1647,13 +1183,9 @@
         "native": "Honduras",
         "emoji": "🇭🇳",
         "emojiU": "U+1F1ED U+1F1F3",
-        "languages": [
-          {
-            "name": "Spanish",
-            "native": "Español"
-          }
-        ],
-        "currency": "HNL"
+        "languages": [{ "name": "Spanish", "native": "Español" }],
+        "currency": "HNL",
+        "population": 9587522
       },
       {
         "code": "HR",
@@ -1662,13 +1194,9 @@
         "native": "Hrvatska",
         "emoji": "🇭🇷",
         "emojiU": "U+1F1ED U+1F1F7",
-        "languages": [
-          {
-            "name": "Croatian",
-            "native": "Hrvatski"
-          }
-        ],
-        "currency": "HRK"
+        "languages": [{ "name": "Croatian", "native": "Hrvatski" }],
+        "currency": "HRK",
+        "population": 4087843
       },
       {
         "code": "HT",
@@ -1678,16 +1206,11 @@
         "emoji": "🇭🇹",
         "emojiU": "U+1F1ED U+1F1F9",
         "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          },
-          {
-            "name": "Haitian",
-            "native": "Krèyol ayisyen"
-          }
+          { "name": "French", "native": "Français" },
+          { "name": "Haitian", "native": "Krèyol ayisyen" }
         ],
-        "currency": "HTG,USD"
+        "currency": "HTG,USD",
+        "population": 11123176
       },
       {
         "code": "HU",
@@ -1696,13 +1219,9 @@
         "native": "Magyarország",
         "emoji": "🇭🇺",
         "emojiU": "U+1F1ED U+1F1FA",
-        "languages": [
-          {
-            "name": "Hungarian",
-            "native": "Magyar"
-          }
-        ],
-        "currency": "HUF"
+        "languages": [{ "name": "Hungarian", "native": "Magyar" }],
+        "currency": "HUF",
+        "population": 9775564
       },
       {
         "code": "ID",
@@ -1711,13 +1230,9 @@
         "native": "Indonesia",
         "emoji": "🇮🇩",
         "emojiU": "U+1F1EE U+1F1E9",
-        "languages": [
-          {
-            "name": "Indonesian",
-            "native": "Bahasa Indonesia"
-          }
-        ],
-        "currency": "IDR"
+        "languages": [{ "name": "Indonesian", "native": "Bahasa Indonesia" }],
+        "currency": "IDR",
+        "population": 267663435
       },
       {
         "code": "IE",
@@ -1727,16 +1242,11 @@
         "emoji": "🇮🇪",
         "emojiU": "U+1F1EE U+1F1EA",
         "languages": [
-          {
-            "name": "Irish",
-            "native": "Gaeilge"
-          },
-          {
-            "name": "English",
-            "native": "English"
-          }
+          { "name": "Irish", "native": "Gaeilge" },
+          { "name": "English", "native": "English" }
         ],
-        "currency": "EUR"
+        "currency": "EUR",
+        "population": 4867309
       },
       {
         "code": "IL",
@@ -1746,16 +1256,11 @@
         "emoji": "🇮🇱",
         "emojiU": "U+1F1EE U+1F1F1",
         "languages": [
-          {
-            "name": "Hebrew",
-            "native": "עברית"
-          },
-          {
-            "name": "Arabic",
-            "native": "العربية"
-          }
+          { "name": "Hebrew", "native": "עברית" },
+          { "name": "Arabic", "native": "العربية" }
         ],
-        "currency": "ILS"
+        "currency": "ILS",
+        "population": 8882800
       },
       {
         "code": "IM",
@@ -1765,16 +1270,11 @@
         "emoji": "🇮🇲",
         "emojiU": "U+1F1EE U+1F1F2",
         "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          },
-          {
-            "name": "Manx",
-            "native": "Gaelg"
-          }
+          { "name": "English", "native": "English" },
+          { "name": "Manx", "native": "Gaelg" }
         ],
-        "currency": "GBP"
+        "currency": "GBP",
+        "population": null
       },
       {
         "code": "IN",
@@ -1784,16 +1284,11 @@
         "emoji": "🇮🇳",
         "emojiU": "U+1F1EE U+1F1F3",
         "languages": [
-          {
-            "name": "Hindi",
-            "native": "हिन्दी"
-          },
-          {
-            "name": "English",
-            "native": "English"
-          }
+          { "name": "Hindi", "native": "हिन्दी" },
+          { "name": "English", "native": "English" }
         ],
-        "currency": "INR"
+        "currency": "INR",
+        "population": 1352617328
       },
       {
         "code": "IO",
@@ -1802,13 +1297,9 @@
         "native": "British Indian Ocean Territory",
         "emoji": "🇮🇴",
         "emojiU": "U+1F1EE U+1F1F4",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "USD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "USD",
+        "population": 0
       },
       {
         "code": "IQ",
@@ -1818,16 +1309,11 @@
         "emoji": "🇮🇶",
         "emojiU": "U+1F1EE U+1F1F6",
         "languages": [
-          {
-            "name": "Arabic",
-            "native": "العربية"
-          },
-          {
-            "name": "Kurdish",
-            "native": "Kurdî / كوردی"
-          }
+          { "name": "Arabic", "native": "العربية" },
+          { "name": "Kurdish", "native": "Kurdî / كوردی" }
         ],
-        "currency": "IQD"
+        "currency": "IQD",
+        "population": 38433600
       },
       {
         "code": "IR",
@@ -1836,13 +1322,9 @@
         "native": "ایران",
         "emoji": "🇮🇷",
         "emojiU": "U+1F1EE U+1F1F7",
-        "languages": [
-          {
-            "name": "Persian",
-            "native": "فارسی"
-          }
-        ],
-        "currency": "IRR"
+        "languages": [{ "name": "Persian", "native": "فارسی" }],
+        "currency": "IRR",
+        "population": 81800269
       },
       {
         "code": "IS",
@@ -1851,13 +1333,9 @@
         "native": "Ísland",
         "emoji": "🇮🇸",
         "emojiU": "U+1F1EE U+1F1F8",
-        "languages": [
-          {
-            "name": "Icelandic",
-            "native": "Íslenska"
-          }
-        ],
-        "currency": "ISK"
+        "languages": [{ "name": "Icelandic", "native": "Íslenska" }],
+        "currency": "ISK",
+        "population": 352721
       },
       {
         "code": "IT",
@@ -1866,13 +1344,9 @@
         "native": "Italia",
         "emoji": "🇮🇹",
         "emojiU": "U+1F1EE U+1F1F9",
-        "languages": [
-          {
-            "name": "Italian",
-            "native": "Italiano"
-          }
-        ],
-        "currency": "EUR"
+        "languages": [{ "name": "Italian", "native": "Italiano" }],
+        "currency": "EUR",
+        "population": 60421760
       },
       {
         "code": "JE",
@@ -1882,16 +1356,11 @@
         "emoji": "🇯🇪",
         "emojiU": "U+1F1EF U+1F1EA",
         "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          },
-          {
-            "name": "French",
-            "native": "Français"
-          }
+          { "name": "English", "native": "English" },
+          { "name": "French", "native": "Français" }
         ],
-        "currency": "GBP"
+        "currency": "GBP",
+        "population": null
       },
       {
         "code": "JM",
@@ -1900,13 +1369,9 @@
         "native": "Jamaica",
         "emoji": "🇯🇲",
         "emojiU": "U+1F1EF U+1F1F2",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "JMD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "JMD",
+        "population": 2934855
       },
       {
         "code": "JO",
@@ -1915,13 +1380,9 @@
         "native": "الأردن",
         "emoji": "🇯🇴",
         "emojiU": "U+1F1EF U+1F1F4",
-        "languages": [
-          {
-            "name": "Arabic",
-            "native": "العربية"
-          }
-        ],
-        "currency": "JOD"
+        "languages": [{ "name": "Arabic", "native": "العربية" }],
+        "currency": "JOD",
+        "population": 9956011
       },
       {
         "code": "JP",
@@ -1930,13 +1391,9 @@
         "native": "日本",
         "emoji": "🇯🇵",
         "emojiU": "U+1F1EF U+1F1F5",
-        "languages": [
-          {
-            "name": "Japanese",
-            "native": "日本語"
-          }
-        ],
-        "currency": "JPY"
+        "languages": [{ "name": "Japanese", "native": "日本語" }],
+        "currency": "JPY",
+        "population": 126529100
       },
       {
         "code": "KE",
@@ -1946,16 +1403,11 @@
         "emoji": "🇰🇪",
         "emojiU": "U+1F1F0 U+1F1EA",
         "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          },
-          {
-            "name": "Swahili",
-            "native": "Kiswahili"
-          }
+          { "name": "English", "native": "English" },
+          { "name": "Swahili", "native": "Kiswahili" }
         ],
-        "currency": "KES"
+        "currency": "KES",
+        "population": 51393010
       },
       {
         "code": "KG",
@@ -1965,16 +1417,11 @@
         "emoji": "🇰🇬",
         "emojiU": "U+1F1F0 U+1F1EC",
         "languages": [
-          {
-            "name": "Kirghiz",
-            "native": "Kırgızca / Кыргызча"
-          },
-          {
-            "name": "Russian",
-            "native": "Русский"
-          }
+          { "name": "Kirghiz", "native": "Kırgızca / Кыргызча" },
+          { "name": "Russian", "native": "Русский" }
         ],
-        "currency": "KGS"
+        "currency": "KGS",
+        "population": 6322800
       },
       {
         "code": "KH",
@@ -1983,13 +1430,9 @@
         "native": "Kâmpŭchéa",
         "emoji": "🇰🇭",
         "emojiU": "U+1F1F0 U+1F1ED",
-        "languages": [
-          {
-            "name": "Cambodian",
-            "native": "ភាសាខ្មែរ"
-          }
-        ],
-        "currency": "KHR"
+        "languages": [{ "name": "Cambodian", "native": "ភាសាខ្មែរ" }],
+        "currency": "KHR",
+        "population": 16249798
       },
       {
         "code": "KI",
@@ -1998,13 +1441,9 @@
         "native": "Kiribati",
         "emoji": "🇰🇮",
         "emojiU": "U+1F1F0 U+1F1EE",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "AUD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "AUD",
+        "population": 115847
       },
       {
         "code": "KM",
@@ -2014,16 +1453,11 @@
         "emoji": "🇰🇲",
         "emojiU": "U+1F1F0 U+1F1F2",
         "languages": [
-          {
-            "name": "Arabic",
-            "native": "العربية"
-          },
-          {
-            "name": "French",
-            "native": "Français"
-          }
+          { "name": "Arabic", "native": "العربية" },
+          { "name": "French", "native": "Français" }
         ],
-        "currency": "KMF"
+        "currency": "KMF",
+        "population": 832322
       },
       {
         "code": "KN",
@@ -2032,13 +1466,9 @@
         "native": "Saint Kitts and Nevis",
         "emoji": "🇰🇳",
         "emojiU": "U+1F1F0 U+1F1F3",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "XCD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "XCD",
+        "population": 52441
       },
       {
         "code": "KP",
@@ -2047,13 +1477,9 @@
         "native": "북한",
         "emoji": "🇰🇵",
         "emojiU": "U+1F1F0 U+1F1F5",
-        "languages": [
-          {
-            "name": "Korean",
-            "native": "한국어"
-          }
-        ],
-        "currency": "KPW"
+        "languages": [{ "name": "Korean", "native": "한국어" }],
+        "currency": "KPW",
+        "population": 25549819
       },
       {
         "code": "KR",
@@ -2062,13 +1488,9 @@
         "native": "대한민국",
         "emoji": "🇰🇷",
         "emojiU": "U+1F1F0 U+1F1F7",
-        "languages": [
-          {
-            "name": "Korean",
-            "native": "한국어"
-          }
-        ],
-        "currency": "KRW"
+        "languages": [{ "name": "Korean", "native": "한국어" }],
+        "currency": "KRW",
+        "population": 51606633
       },
       {
         "code": "KW",
@@ -2077,13 +1499,9 @@
         "native": "الكويت",
         "emoji": "🇰🇼",
         "emojiU": "U+1F1F0 U+1F1FC",
-        "languages": [
-          {
-            "name": "Arabic",
-            "native": "العربية"
-          }
-        ],
-        "currency": "KWD"
+        "languages": [{ "name": "Arabic", "native": "العربية" }],
+        "currency": "KWD",
+        "population": 4137309
       },
       {
         "code": "KY",
@@ -2092,13 +1510,9 @@
         "native": "Cayman Islands",
         "emoji": "🇰🇾",
         "emojiU": "U+1F1F0 U+1F1FE",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "KYD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "KYD",
+        "population": 64174
       },
       {
         "code": "KZ",
@@ -2108,16 +1522,11 @@
         "emoji": "🇰🇿",
         "emojiU": "U+1F1F0 U+1F1FF",
         "languages": [
-          {
-            "name": "Kazakh",
-            "native": "Қазақша"
-          },
-          {
-            "name": "Russian",
-            "native": "Русский"
-          }
+          { "name": "Kazakh", "native": "Қазақша" },
+          { "name": "Russian", "native": "Русский" }
         ],
-        "currency": "KZT"
+        "currency": "KZT",
+        "population": 18272430
       },
       {
         "code": "LA",
@@ -2126,13 +1535,9 @@
         "native": "ສປປລາວ",
         "emoji": "🇱🇦",
         "emojiU": "U+1F1F1 U+1F1E6",
-        "languages": [
-          {
-            "name": "Laotian",
-            "native": "ລາວ / Pha xa lao"
-          }
-        ],
-        "currency": "LAK"
+        "languages": [{ "name": "Laotian", "native": "ລາວ / Pha xa lao" }],
+        "currency": "LAK",
+        "population": 7061507
       },
       {
         "code": "LB",
@@ -2142,16 +1547,11 @@
         "emoji": "🇱🇧",
         "emojiU": "U+1F1F1 U+1F1E7",
         "languages": [
-          {
-            "name": "Arabic",
-            "native": "العربية"
-          },
-          {
-            "name": "French",
-            "native": "Français"
-          }
+          { "name": "Arabic", "native": "العربية" },
+          { "name": "French", "native": "Français" }
         ],
-        "currency": "LBP"
+        "currency": "LBP",
+        "population": 6848925
       },
       {
         "code": "LC",
@@ -2160,13 +1560,9 @@
         "native": "Saint Lucia",
         "emoji": "🇱🇨",
         "emojiU": "U+1F1F1 U+1F1E8",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "XCD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "XCD",
+        "population": 181889
       },
       {
         "code": "LI",
@@ -2175,13 +1571,9 @@
         "native": "Liechtenstein",
         "emoji": "🇱🇮",
         "emojiU": "U+1F1F1 U+1F1EE",
-        "languages": [
-          {
-            "name": "German",
-            "native": "Deutsch"
-          }
-        ],
-        "currency": "CHF"
+        "languages": [{ "name": "German", "native": "Deutsch" }],
+        "currency": "CHF",
+        "population": 37910
       },
       {
         "code": "LK",
@@ -2191,16 +1583,11 @@
         "emoji": "🇱🇰",
         "emojiU": "U+1F1F1 U+1F1F0",
         "languages": [
-          {
-            "name": "Sinhalese",
-            "native": "සිංහල"
-          },
-          {
-            "name": "Tamil",
-            "native": "தமிழ்"
-          }
+          { "name": "Sinhalese", "native": "සිංහල" },
+          { "name": "Tamil", "native": "தமிழ்" }
         ],
-        "currency": "LKR"
+        "currency": "LKR",
+        "population": 21670000
       },
       {
         "code": "LR",
@@ -2209,13 +1596,9 @@
         "native": "Liberia",
         "emoji": "🇱🇷",
         "emojiU": "U+1F1F1 U+1F1F7",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "LRD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "LRD",
+        "population": 4818977
       },
       {
         "code": "LS",
@@ -2225,16 +1608,11 @@
         "emoji": "🇱🇸",
         "emojiU": "U+1F1F1 U+1F1F8",
         "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          },
-          {
-            "name": "Southern Sotho",
-            "native": "Sesotho"
-          }
+          { "name": "English", "native": "English" },
+          { "name": "Southern Sotho", "native": "Sesotho" }
         ],
-        "currency": "LSL,ZAR"
+        "currency": "LSL,ZAR",
+        "population": 2108132
       },
       {
         "code": "LT",
@@ -2243,13 +1621,9 @@
         "native": "Lietuva",
         "emoji": "🇱🇹",
         "emojiU": "U+1F1F1 U+1F1F9",
-        "languages": [
-          {
-            "name": "Lithuanian",
-            "native": "Lietuvių"
-          }
-        ],
-        "currency": "EUR"
+        "languages": [{ "name": "Lithuanian", "native": "Lietuvių" }],
+        "currency": "EUR",
+        "population": 2801543
       },
       {
         "code": "LU",
@@ -2259,20 +1633,12 @@
         "emoji": "🇱🇺",
         "emojiU": "U+1F1F1 U+1F1FA",
         "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          },
-          {
-            "name": "German",
-            "native": "Deutsch"
-          },
-          {
-            "name": "Luxembourgish",
-            "native": "Lëtzebuergesch"
-          }
+          { "name": "French", "native": "Français" },
+          { "name": "German", "native": "Deutsch" },
+          { "name": "Luxembourgish", "native": "Lëtzebuergesch" }
         ],
-        "currency": "EUR"
+        "currency": "EUR",
+        "population": 607950
       },
       {
         "code": "LV",
@@ -2281,13 +1647,9 @@
         "native": "Latvija",
         "emoji": "🇱🇻",
         "emojiU": "U+1F1F1 U+1F1FB",
-        "languages": [
-          {
-            "name": "Latvian",
-            "native": "Latviešu"
-          }
-        ],
-        "currency": "EUR"
+        "languages": [{ "name": "Latvian", "native": "Latviešu" }],
+        "currency": "EUR",
+        "population": 1927174
       },
       {
         "code": "LY",
@@ -2296,13 +1658,9 @@
         "native": "‏ليبيا",
         "emoji": "🇱🇾",
         "emojiU": "U+1F1F1 U+1F1FE",
-        "languages": [
-          {
-            "name": "Arabic",
-            "native": "العربية"
-          }
-        ],
-        "currency": "LYD"
+        "languages": [{ "name": "Arabic", "native": "العربية" }],
+        "currency": "LYD",
+        "population": 6678567
       },
       {
         "code": "MA",
@@ -2311,13 +1669,9 @@
         "native": "المغرب",
         "emoji": "🇲🇦",
         "emojiU": "U+1F1F2 U+1F1E6",
-        "languages": [
-          {
-            "name": "Arabic",
-            "native": "العربية"
-          }
-        ],
-        "currency": "MAD"
+        "languages": [{ "name": "Arabic", "native": "العربية" }],
+        "currency": "MAD",
+        "population": 36029138
       },
       {
         "code": "MC",
@@ -2326,13 +1680,9 @@
         "native": "Monaco",
         "emoji": "🇲🇨",
         "emojiU": "U+1F1F2 U+1F1E8",
-        "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          }
-        ],
-        "currency": "EUR"
+        "languages": [{ "name": "French", "native": "Français" }],
+        "currency": "EUR",
+        "population": 38682
       },
       {
         "code": "MD",
@@ -2341,13 +1691,9 @@
         "native": "Moldova",
         "emoji": "🇲🇩",
         "emojiU": "U+1F1F2 U+1F1E9",
-        "languages": [
-          {
-            "name": "Romanian",
-            "native": "Română"
-          }
-        ],
-        "currency": "MDL"
+        "languages": [{ "name": "Romanian", "native": "Română" }],
+        "currency": "MDL",
+        "population": 2706049
       },
       {
         "code": "ME",
@@ -2357,24 +1703,13 @@
         "emoji": "🇲🇪",
         "emojiU": "U+1F1F2 U+1F1EA",
         "languages": [
-          {
-            "name": "Serbian",
-            "native": "Српски"
-          },
-          {
-            "name": "Bosnian",
-            "native": "Bosanski"
-          },
-          {
-            "name": "Albanian",
-            "native": "Shqip"
-          },
-          {
-            "name": "Croatian",
-            "native": "Hrvatski"
-          }
+          { "name": "Serbian", "native": "Српски" },
+          { "name": "Bosnian", "native": "Bosanski" },
+          { "name": "Albanian", "native": "Shqip" },
+          { "name": "Croatian", "native": "Hrvatski" }
         ],
-        "currency": "EUR"
+        "currency": "EUR",
+        "population": 631219
       },
       {
         "code": "MF",
@@ -2384,20 +1719,12 @@
         "emoji": "🇲🇫",
         "emojiU": "U+1F1F2 U+1F1EB",
         "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          },
-          {
-            "name": "French",
-            "native": "Français"
-          },
-          {
-            "name": "Dutch",
-            "native": "Nederlands"
-          }
+          { "name": "English", "native": "English" },
+          { "name": "French", "native": "Français" },
+          { "name": "Dutch", "native": "Nederlands" }
         ],
-        "currency": "EUR"
+        "currency": "EUR",
+        "population": null
       },
       {
         "code": "MG",
@@ -2407,16 +1734,11 @@
         "emoji": "🇲🇬",
         "emojiU": "U+1F1F2 U+1F1EC",
         "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          },
-          {
-            "name": "Malagasy",
-            "native": "Malagasy"
-          }
+          { "name": "French", "native": "Français" },
+          { "name": "Malagasy", "native": "Malagasy" }
         ],
-        "currency": "MGA"
+        "currency": "MGA",
+        "population": 26262368
       },
       {
         "code": "MH",
@@ -2426,16 +1748,11 @@
         "emoji": "🇲🇭",
         "emojiU": "U+1F1F2 U+1F1ED",
         "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          },
-          {
-            "name": "Marshallese",
-            "native": "Kajin Majel / Ebon"
-          }
+          { "name": "English", "native": "English" },
+          { "name": "Marshallese", "native": "Kajin Majel / Ebon" }
         ],
-        "currency": "USD"
+        "currency": "USD",
+        "population": 58413
       },
       {
         "code": "MK",
@@ -2444,13 +1761,9 @@
         "native": "Северна Македонија",
         "emoji": "🇲🇰",
         "emojiU": "U+1F1F2 U+1F1F0",
-        "languages": [
-          {
-            "name": "Macedonian",
-            "native": "Македонски"
-          }
-        ],
-        "currency": "MKD"
+        "languages": [{ "name": "Macedonian", "native": "Македонски" }],
+        "currency": "MKD",
+        "population": 2084367
       },
       {
         "code": "ML",
@@ -2459,13 +1772,9 @@
         "native": "Mali",
         "emoji": "🇲🇱",
         "emojiU": "U+1F1F2 U+1F1F1",
-        "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          }
-        ],
-        "currency": "XOF"
+        "languages": [{ "name": "French", "native": "Français" }],
+        "currency": "XOF",
+        "population": 19077690
       },
       {
         "code": "MM",
@@ -2474,13 +1783,9 @@
         "native": "မြန်မာ",
         "emoji": "🇲🇲",
         "emojiU": "U+1F1F2 U+1F1F2",
-        "languages": [
-          {
-            "name": "Burmese",
-            "native": "မြန်မာစာ"
-          }
-        ],
-        "currency": "MMK"
+        "languages": [{ "name": "Burmese", "native": "မြန်မာစာ" }],
+        "currency": "MMK",
+        "population": null
       },
       {
         "code": "MN",
@@ -2489,13 +1794,9 @@
         "native": "Монгол улс",
         "emoji": "🇲🇳",
         "emojiU": "U+1F1F2 U+1F1F3",
-        "languages": [
-          {
-            "name": "Mongolian",
-            "native": "Монгол"
-          }
-        ],
-        "currency": "MNT"
+        "languages": [{ "name": "Mongolian", "native": "Монгол" }],
+        "currency": "MNT",
+        "population": 3170208
       },
       {
         "code": "MO",
@@ -2505,16 +1806,11 @@
         "emoji": "🇲🇴",
         "emojiU": "U+1F1F2 U+1F1F4",
         "languages": [
-          {
-            "name": "Chinese",
-            "native": "中文"
-          },
-          {
-            "name": "Portuguese",
-            "native": "Português"
-          }
+          { "name": "Chinese", "native": "中文" },
+          { "name": "Portuguese", "native": "Português" }
         ],
-        "currency": "MOP"
+        "currency": "MOP",
+        "population": 631636
       },
       {
         "code": "MP",
@@ -2524,16 +1820,11 @@
         "emoji": "🇲🇵",
         "emojiU": "U+1F1F2 U+1F1F5",
         "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          },
-          {
-            "name": "Chamorro",
-            "native": "Chamoru"
-          }
+          { "name": "English", "native": "English" },
+          { "name": "Chamorro", "native": "Chamoru" }
         ],
-        "currency": "USD"
+        "currency": "USD",
+        "population": 56882
       },
       {
         "code": "MQ",
@@ -2542,13 +1833,9 @@
         "native": "Martinique",
         "emoji": "🇲🇶",
         "emojiU": "U+1F1F2 U+1F1F6",
-        "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          }
-        ],
-        "currency": "EUR"
+        "languages": [{ "name": "French", "native": "Français" }],
+        "currency": "EUR",
+        "population": 376480
       },
       {
         "code": "MR",
@@ -2557,13 +1844,9 @@
         "native": "موريتانيا",
         "emoji": "🇲🇷",
         "emojiU": "U+1F1F2 U+1F1F7",
-        "languages": [
-          {
-            "name": "Arabic",
-            "native": "العربية"
-          }
-        ],
-        "currency": "MRU"
+        "languages": [{ "name": "Arabic", "native": "العربية" }],
+        "currency": "MRU",
+        "population": 4403319
       },
       {
         "code": "MS",
@@ -2572,13 +1855,9 @@
         "native": "Montserrat",
         "emoji": "🇲🇸",
         "emojiU": "U+1F1F2 U+1F1F8",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "XCD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "XCD",
+        "population": 5900
       },
       {
         "code": "MT",
@@ -2588,16 +1867,11 @@
         "emoji": "🇲🇹",
         "emojiU": "U+1F1F2 U+1F1F9",
         "languages": [
-          {
-            "name": "Maltese",
-            "native": "bil-Malti"
-          },
-          {
-            "name": "English",
-            "native": "English"
-          }
+          { "name": "Maltese", "native": "bil-Malti" },
+          { "name": "English", "native": "English" }
         ],
-        "currency": "EUR"
+        "currency": "EUR",
+        "population": 484630
       },
       {
         "code": "MU",
@@ -2606,13 +1880,9 @@
         "native": "Maurice",
         "emoji": "🇲🇺",
         "emojiU": "U+1F1F2 U+1F1FA",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "MUR"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "MUR",
+        "population": 1265303
       },
       {
         "code": "MV",
@@ -2621,13 +1891,9 @@
         "native": "Maldives",
         "emoji": "🇲🇻",
         "emojiU": "U+1F1F2 U+1F1FB",
-        "languages": [
-          {
-            "name": "Divehi",
-            "native": "ދިވެހިބަސް"
-          }
-        ],
-        "currency": "MVR"
+        "languages": [{ "name": "Divehi", "native": "ދިވެހިބަސް" }],
+        "currency": "MVR",
+        "population": 515696
       },
       {
         "code": "MW",
@@ -2637,16 +1903,11 @@
         "emoji": "🇲🇼",
         "emojiU": "U+1F1F2 U+1F1FC",
         "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          },
-          {
-            "name": "Chichewa",
-            "native": "Chi-Chewa"
-          }
+          { "name": "English", "native": "English" },
+          { "name": "Chichewa", "native": "Chi-Chewa" }
         ],
-        "currency": "MWK"
+        "currency": "MWK",
+        "population": 18143315
       },
       {
         "code": "MX",
@@ -2655,13 +1916,9 @@
         "native": "México",
         "emoji": "🇲🇽",
         "emojiU": "U+1F1F2 U+1F1FD",
-        "languages": [
-          {
-            "name": "Spanish",
-            "native": "Español"
-          }
-        ],
-        "currency": "MXN"
+        "languages": [{ "name": "Spanish", "native": "Español" }],
+        "currency": "MXN",
+        "population": 126190788
       },
       {
         "code": "MY",
@@ -2670,13 +1927,9 @@
         "native": "Malaysia",
         "emoji": "🇲🇾",
         "emojiU": "U+1F1F2 U+1F1FE",
-        "languages": [
-          {
-            "name": "Malay",
-            "native": "Bahasa Melayu"
-          }
-        ],
-        "currency": "MYR"
+        "languages": [{ "name": "Malay", "native": "Bahasa Melayu" }],
+        "currency": "MYR",
+        "population": 31528585
       },
       {
         "code": "MZ",
@@ -2685,13 +1938,9 @@
         "native": "Moçambique",
         "emoji": "🇲🇿",
         "emojiU": "U+1F1F2 U+1F1FF",
-        "languages": [
-          {
-            "name": "Portuguese",
-            "native": "Português"
-          }
-        ],
-        "currency": "MZN"
+        "languages": [{ "name": "Portuguese", "native": "Português" }],
+        "currency": "MZN",
+        "population": 29495962
       },
       {
         "code": "NA",
@@ -2701,16 +1950,11 @@
         "emoji": "🇳🇦",
         "emojiU": "U+1F1F3 U+1F1E6",
         "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          },
-          {
-            "name": "Afrikaans",
-            "native": "Afrikaans"
-          }
+          { "name": "English", "native": "English" },
+          { "name": "Afrikaans", "native": "Afrikaans" }
         ],
-        "currency": "NAD,ZAR"
+        "currency": "NAD,ZAR",
+        "population": 2448255
       },
       {
         "code": "NC",
@@ -2719,13 +1963,9 @@
         "native": "Nouvelle-Calédonie",
         "emoji": "🇳🇨",
         "emojiU": "U+1F1F3 U+1F1E8",
-        "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          }
-        ],
-        "currency": "XPF"
+        "languages": [{ "name": "French", "native": "Français" }],
+        "currency": "XPF",
+        "population": 284060
       },
       {
         "code": "NE",
@@ -2734,13 +1974,9 @@
         "native": "Niger",
         "emoji": "🇳🇪",
         "emojiU": "U+1F1F3 U+1F1EA",
-        "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          }
-        ],
-        "currency": "XOF"
+        "languages": [{ "name": "French", "native": "Français" }],
+        "currency": "XOF",
+        "population": 22442948
       },
       {
         "code": "NF",
@@ -2749,13 +1985,9 @@
         "native": "Norfolk Island",
         "emoji": "🇳🇫",
         "emojiU": "U+1F1F3 U+1F1EB",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "AUD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "AUD",
+        "population": 2169
       },
       {
         "code": "NG",
@@ -2764,13 +1996,9 @@
         "native": "Nigeria",
         "emoji": "🇳🇬",
         "emojiU": "U+1F1F3 U+1F1EC",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "NGN"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "NGN",
+        "population": 195874740
       },
       {
         "code": "NI",
@@ -2779,13 +2007,9 @@
         "native": "Nicaragua",
         "emoji": "🇳🇮",
         "emojiU": "U+1F1F3 U+1F1EE",
-        "languages": [
-          {
-            "name": "Spanish",
-            "native": "Español"
-          }
-        ],
-        "currency": "NIO"
+        "languages": [{ "name": "Spanish", "native": "Español" }],
+        "currency": "NIO",
+        "population": 6465513
       },
       {
         "code": "NL",
@@ -2794,13 +2018,9 @@
         "native": "Nederland",
         "emoji": "🇳🇱",
         "emojiU": "U+1F1F3 U+1F1F1",
-        "languages": [
-          {
-            "name": "Dutch",
-            "native": "Nederlands"
-          }
-        ],
-        "currency": "EUR"
+        "languages": [{ "name": "Dutch", "native": "Nederlands" }],
+        "currency": "EUR",
+        "population": 17231624
       },
       {
         "code": "NO",
@@ -2810,20 +2030,12 @@
         "emoji": "🇳🇴",
         "emojiU": "U+1F1F3 U+1F1F4",
         "languages": [
-          {
-            "name": "Norwegian",
-            "native": "Norsk"
-          },
-          {
-            "name": "Norwegian Bokmål",
-            "native": "Norsk bokmål"
-          },
-          {
-            "name": "Norwegian Nynorsk",
-            "native": "Norsk nynorsk"
-          }
+          { "name": "Norwegian", "native": "Norsk" },
+          { "name": "Norwegian Bokmål", "native": "Norsk bokmål" },
+          { "name": "Norwegian Nynorsk", "native": "Norsk nynorsk" }
         ],
-        "currency": "NOK"
+        "currency": "NOK",
+        "population": 5311916
       },
       {
         "code": "NP",
@@ -2832,13 +2044,9 @@
         "native": "नपल",
         "emoji": "🇳🇵",
         "emojiU": "U+1F1F3 U+1F1F5",
-        "languages": [
-          {
-            "name": "Nepali",
-            "native": "नेपाली"
-          }
-        ],
-        "currency": "NPR"
+        "languages": [{ "name": "Nepali", "native": "नेपाली" }],
+        "currency": "NPR",
+        "population": 28087871
       },
       {
         "code": "NR",
@@ -2848,16 +2056,11 @@
         "emoji": "🇳🇷",
         "emojiU": "U+1F1F3 U+1F1F7",
         "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          },
-          {
-            "name": "Nauruan",
-            "native": "Dorerin Naoero"
-          }
+          { "name": "English", "native": "English" },
+          { "name": "Nauruan", "native": "Dorerin Naoero" }
         ],
-        "currency": "AUD"
+        "currency": "AUD",
+        "population": 12704
       },
       {
         "code": "NU",
@@ -2866,13 +2069,9 @@
         "native": "Niuē",
         "emoji": "🇳🇺",
         "emojiU": "U+1F1F3 U+1F1FA",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "NZD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "NZD",
+        "population": 1624
       },
       {
         "code": "NZ",
@@ -2882,16 +2081,11 @@
         "emoji": "🇳🇿",
         "emojiU": "U+1F1F3 U+1F1FF",
         "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          },
-          {
-            "name": "Maori",
-            "native": "Māori"
-          }
+          { "name": "English", "native": "English" },
+          { "name": "Maori", "native": "Māori" }
         ],
-        "currency": "NZD"
+        "currency": "NZD",
+        "population": 4841000
       },
       {
         "code": "OM",
@@ -2900,13 +2094,9 @@
         "native": "عمان",
         "emoji": "🇴🇲",
         "emojiU": "U+1F1F4 U+1F1F2",
-        "languages": [
-          {
-            "name": "Arabic",
-            "native": "العربية"
-          }
-        ],
-        "currency": "OMR"
+        "languages": [{ "name": "Arabic", "native": "العربية" }],
+        "currency": "OMR",
+        "population": 4829483
       },
       {
         "code": "PA",
@@ -2915,13 +2105,9 @@
         "native": "Panamá",
         "emoji": "🇵🇦",
         "emojiU": "U+1F1F5 U+1F1E6",
-        "languages": [
-          {
-            "name": "Spanish",
-            "native": "Español"
-          }
-        ],
-        "currency": "PAB,USD"
+        "languages": [{ "name": "Spanish", "native": "Español" }],
+        "currency": "PAB,USD",
+        "population": 4176873
       },
       {
         "code": "PE",
@@ -2930,13 +2116,9 @@
         "native": "Perú",
         "emoji": "🇵🇪",
         "emojiU": "U+1F1F5 U+1F1EA",
-        "languages": [
-          {
-            "name": "Spanish",
-            "native": "Español"
-          }
-        ],
-        "currency": "PEN"
+        "languages": [{ "name": "Spanish", "native": "Español" }],
+        "currency": "PEN",
+        "population": 31989256
       },
       {
         "code": "PF",
@@ -2945,13 +2127,9 @@
         "native": "Polynésie française",
         "emoji": "🇵🇫",
         "emojiU": "U+1F1F5 U+1F1EB",
-        "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          }
-        ],
-        "currency": "XPF"
+        "languages": [{ "name": "French", "native": "Français" }],
+        "currency": "XPF",
+        "population": 277679
       },
       {
         "code": "PG",
@@ -2960,13 +2138,9 @@
         "native": "Papua Niugini",
         "emoji": "🇵🇬",
         "emojiU": "U+1F1F5 U+1F1EC",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "PGK"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "PGK",
+        "population": 8606316
       },
       {
         "code": "PH",
@@ -2975,13 +2149,9 @@
         "native": "Pilipinas",
         "emoji": "🇵🇭",
         "emojiU": "U+1F1F5 U+1F1ED",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "PHP"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "PHP",
+        "population": 106651922
       },
       {
         "code": "PK",
@@ -2991,16 +2161,11 @@
         "emoji": "🇵🇰",
         "emojiU": "U+1F1F5 U+1F1F0",
         "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          },
-          {
-            "name": "Urdu",
-            "native": "اردو"
-          }
+          { "name": "English", "native": "English" },
+          { "name": "Urdu", "native": "اردو" }
         ],
-        "currency": "PKR"
+        "currency": "PKR",
+        "population": 212215030
       },
       {
         "code": "PL",
@@ -3009,13 +2174,9 @@
         "native": "Polska",
         "emoji": "🇵🇱",
         "emojiU": "U+1F1F5 U+1F1F1",
-        "languages": [
-          {
-            "name": "Polish",
-            "native": "Polski"
-          }
-        ],
-        "currency": "PLN"
+        "languages": [{ "name": "Polish", "native": "Polski" }],
+        "currency": "PLN",
+        "population": 37974750
       },
       {
         "code": "PM",
@@ -3024,13 +2185,9 @@
         "native": "Saint-Pierre-et-Miquelon",
         "emoji": "🇵🇲",
         "emojiU": "U+1F1F5 U+1F1F2",
-        "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          }
-        ],
-        "currency": "EUR"
+        "languages": [{ "name": "French", "native": "Français" }],
+        "currency": "EUR",
+        "population": 5888
       },
       {
         "code": "PN",
@@ -3039,13 +2196,9 @@
         "native": "Pitcairn Islands",
         "emoji": "🇵🇳",
         "emojiU": "U+1F1F5 U+1F1F3",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "NZD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "NZD",
+        "population": null
       },
       {
         "code": "PR",
@@ -3055,16 +2208,11 @@
         "emoji": "🇵🇷",
         "emojiU": "U+1F1F5 U+1F1F7",
         "languages": [
-          {
-            "name": "Spanish",
-            "native": "Español"
-          },
-          {
-            "name": "English",
-            "native": "English"
-          }
+          { "name": "Spanish", "native": "Español" },
+          { "name": "English", "native": "English" }
         ],
-        "currency": "USD"
+        "currency": "USD",
+        "population": 3195153
       },
       {
         "code": "PS",
@@ -3073,13 +2221,9 @@
         "native": "فلسطين",
         "emoji": "🇵🇸",
         "emojiU": "U+1F1F5 U+1F1F8",
-        "languages": [
-          {
-            "name": "Arabic",
-            "native": "العربية"
-          }
-        ],
-        "currency": "ILS"
+        "languages": [{ "name": "Arabic", "native": "العربية" }],
+        "currency": "ILS",
+        "population": 4569087
       },
       {
         "code": "PT",
@@ -3088,13 +2232,9 @@
         "native": "Portugal",
         "emoji": "🇵🇹",
         "emojiU": "U+1F1F5 U+1F1F9",
-        "languages": [
-          {
-            "name": "Portuguese",
-            "native": "Português"
-          }
-        ],
-        "currency": "EUR"
+        "languages": [{ "name": "Portuguese", "native": "Português" }],
+        "currency": "EUR",
+        "population": 10283822
       },
       {
         "code": "PW",
@@ -3103,13 +2243,9 @@
         "native": "Palau",
         "emoji": "🇵🇼",
         "emojiU": "U+1F1F5 U+1F1FC",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "USD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "USD",
+        "population": 17907
       },
       {
         "code": "PY",
@@ -3119,16 +2255,11 @@
         "emoji": "🇵🇾",
         "emojiU": "U+1F1F5 U+1F1FE",
         "languages": [
-          {
-            "name": "Spanish",
-            "native": "Español"
-          },
-          {
-            "name": "Guarani",
-            "native": "Avañe'ẽ"
-          }
+          { "name": "Spanish", "native": "Español" },
+          { "name": "Guarani", "native": "Avañe'ẽ" }
         ],
-        "currency": "PYG"
+        "currency": "PYG",
+        "population": 6956071
       },
       {
         "code": "QA",
@@ -3137,13 +2268,9 @@
         "native": "قطر",
         "emoji": "🇶🇦",
         "emojiU": "U+1F1F6 U+1F1E6",
-        "languages": [
-          {
-            "name": "Arabic",
-            "native": "العربية"
-          }
-        ],
-        "currency": "QAR"
+        "languages": [{ "name": "Arabic", "native": "العربية" }],
+        "currency": "QAR",
+        "population": 2781677
       },
       {
         "code": "RE",
@@ -3152,13 +2279,9 @@
         "native": "La Réunion",
         "emoji": "🇷🇪",
         "emojiU": "U+1F1F7 U+1F1EA",
-        "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          }
-        ],
-        "currency": "EUR"
+        "languages": [{ "name": "French", "native": "Français" }],
+        "currency": "EUR",
+        "population": null
       },
       {
         "code": "RO",
@@ -3167,13 +2290,9 @@
         "native": "România",
         "emoji": "🇷🇴",
         "emojiU": "U+1F1F7 U+1F1F4",
-        "languages": [
-          {
-            "name": "Romanian",
-            "native": "Română"
-          }
-        ],
-        "currency": "RON"
+        "languages": [{ "name": "Romanian", "native": "Română" }],
+        "currency": "RON",
+        "population": 19466145
       },
       {
         "code": "RS",
@@ -3182,13 +2301,9 @@
         "native": "Србија",
         "emoji": "🇷🇸",
         "emojiU": "U+1F1F7 U+1F1F8",
-        "languages": [
-          {
-            "name": "Serbian",
-            "native": "Српски"
-          }
-        ],
-        "currency": "RSD"
+        "languages": [{ "name": "Serbian", "native": "Српски" }],
+        "currency": "RSD",
+        "population": 6963764
       },
       {
         "code": "RU",
@@ -3197,13 +2312,9 @@
         "native": "Россия",
         "emoji": "🇷🇺",
         "emojiU": "U+1F1F7 U+1F1FA",
-        "languages": [
-          {
-            "name": "Russian",
-            "native": "Русский"
-          }
-        ],
-        "currency": "RUB"
+        "languages": [{ "name": "Russian", "native": "Русский" }],
+        "currency": "RUB",
+        "population": 144478050
       },
       {
         "code": "RW",
@@ -3213,20 +2324,12 @@
         "emoji": "🇷🇼",
         "emojiU": "U+1F1F7 U+1F1FC",
         "languages": [
-          {
-            "name": "Rwandi",
-            "native": "Kinyarwandi"
-          },
-          {
-            "name": "English",
-            "native": "English"
-          },
-          {
-            "name": "French",
-            "native": "Français"
-          }
+          { "name": "Rwandi", "native": "Kinyarwandi" },
+          { "name": "English", "native": "English" },
+          { "name": "French", "native": "Français" }
         ],
-        "currency": "RWF"
+        "currency": "RWF",
+        "population": 12301939
       },
       {
         "code": "SA",
@@ -3235,13 +2338,9 @@
         "native": "العربية السعودية",
         "emoji": "🇸🇦",
         "emojiU": "U+1F1F8 U+1F1E6",
-        "languages": [
-          {
-            "name": "Arabic",
-            "native": "العربية"
-          }
-        ],
-        "currency": "SAR"
+        "languages": [{ "name": "Arabic", "native": "العربية" }],
+        "currency": "SAR",
+        "population": 33699947
       },
       {
         "code": "SB",
@@ -3250,13 +2349,9 @@
         "native": "Solomon Islands",
         "emoji": "🇸🇧",
         "emojiU": "U+1F1F8 U+1F1E7",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "SBD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "SBD",
+        "population": 652858
       },
       {
         "code": "SC",
@@ -3266,16 +2361,11 @@
         "emoji": "🇸🇨",
         "emojiU": "U+1F1F8 U+1F1E8",
         "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          },
-          {
-            "name": "English",
-            "native": "English"
-          }
+          { "name": "French", "native": "Français" },
+          { "name": "English", "native": "English" }
         ],
-        "currency": "SCR"
+        "currency": "SCR",
+        "population": 96762
       },
       {
         "code": "SD",
@@ -3285,16 +2375,11 @@
         "emoji": "🇸🇩",
         "emojiU": "U+1F1F8 U+1F1E9",
         "languages": [
-          {
-            "name": "Arabic",
-            "native": "العربية"
-          },
-          {
-            "name": "English",
-            "native": "English"
-          }
+          { "name": "Arabic", "native": "العربية" },
+          { "name": "English", "native": "English" }
         ],
-        "currency": "SDG"
+        "currency": "SDG",
+        "population": 41801533
       },
       {
         "code": "SE",
@@ -3303,13 +2388,9 @@
         "native": "Sverige",
         "emoji": "🇸🇪",
         "emojiU": "U+1F1F8 U+1F1EA",
-        "languages": [
-          {
-            "name": "Swedish",
-            "native": "Svenska"
-          }
-        ],
-        "currency": "SEK"
+        "languages": [{ "name": "Swedish", "native": "Svenska" }],
+        "currency": "SEK",
+        "population": 10175214
       },
       {
         "code": "SG",
@@ -3319,24 +2400,13 @@
         "emoji": "🇸🇬",
         "emojiU": "U+1F1F8 U+1F1EC",
         "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          },
-          {
-            "name": "Malay",
-            "native": "Bahasa Melayu"
-          },
-          {
-            "name": "Tamil",
-            "native": "தமிழ்"
-          },
-          {
-            "name": "Chinese",
-            "native": "中文"
-          }
+          { "name": "English", "native": "English" },
+          { "name": "Malay", "native": "Bahasa Melayu" },
+          { "name": "Tamil", "native": "தமிழ்" },
+          { "name": "Chinese", "native": "中文" }
         ],
-        "currency": "SGD"
+        "currency": "SGD",
+        "population": 5638676
       },
       {
         "code": "SH",
@@ -3345,13 +2415,9 @@
         "native": "Saint Helena",
         "emoji": "🇸🇭",
         "emojiU": "U+1F1F8 U+1F1ED",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "SHP"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "SHP",
+        "population": 6600
       },
       {
         "code": "SI",
@@ -3360,13 +2426,9 @@
         "native": "Slovenija",
         "emoji": "🇸🇮",
         "emojiU": "U+1F1F8 U+1F1EE",
-        "languages": [
-          {
-            "name": "Slovenian",
-            "native": "Slovenščina"
-          }
-        ],
-        "currency": "EUR"
+        "languages": [{ "name": "Slovenian", "native": "Slovenščina" }],
+        "currency": "EUR",
+        "population": 2073894
       },
       {
         "code": "SJ",
@@ -3375,13 +2437,9 @@
         "native": "Svalbard og Jan Mayen",
         "emoji": "🇸🇯",
         "emojiU": "U+1F1F8 U+1F1EF",
-        "languages": [
-          {
-            "name": "Norwegian",
-            "native": "Norsk"
-          }
-        ],
-        "currency": "NOK"
+        "languages": [{ "name": "Norwegian", "native": "Norsk" }],
+        "currency": "NOK",
+        "population": 2572
       },
       {
         "code": "SK",
@@ -3390,13 +2448,9 @@
         "native": "Slovensko",
         "emoji": "🇸🇰",
         "emojiU": "U+1F1F8 U+1F1F0",
-        "languages": [
-          {
-            "name": "Slovak",
-            "native": "Slovenčina"
-          }
-        ],
-        "currency": "EUR"
+        "languages": [{ "name": "Slovak", "native": "Slovenčina" }],
+        "currency": "EUR",
+        "population": 5446771
       },
       {
         "code": "SL",
@@ -3405,13 +2459,9 @@
         "native": "Sierra Leone",
         "emoji": "🇸🇱",
         "emojiU": "U+1F1F8 U+1F1F1",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "SLL"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "SLL",
+        "population": 7650154
       },
       {
         "code": "SM",
@@ -3420,13 +2470,9 @@
         "native": "San Marino",
         "emoji": "🇸🇲",
         "emojiU": "U+1F1F8 U+1F1F2",
-        "languages": [
-          {
-            "name": "Italian",
-            "native": "Italiano"
-          }
-        ],
-        "currency": "EUR"
+        "languages": [{ "name": "Italian", "native": "Italiano" }],
+        "currency": "EUR",
+        "population": 33785
       },
       {
         "code": "SN",
@@ -3435,13 +2481,9 @@
         "native": "Sénégal",
         "emoji": "🇸🇳",
         "emojiU": "U+1F1F8 U+1F1F3",
-        "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          }
-        ],
-        "currency": "XOF"
+        "languages": [{ "name": "French", "native": "Français" }],
+        "currency": "XOF",
+        "population": 15854360
       },
       {
         "code": "SO",
@@ -3451,16 +2493,11 @@
         "emoji": "🇸🇴",
         "emojiU": "U+1F1F8 U+1F1F4",
         "languages": [
-          {
-            "name": "Somalia",
-            "native": "Soomaaliga"
-          },
-          {
-            "name": "Arabic",
-            "native": "العربية"
-          }
+          { "name": "Somalia", "native": "Soomaaliga" },
+          { "name": "Arabic", "native": "العربية" }
         ],
-        "currency": "SOS"
+        "currency": "SOS",
+        "population": 15008154
       },
       {
         "code": "SR",
@@ -3469,13 +2506,9 @@
         "native": "Suriname",
         "emoji": "🇸🇷",
         "emojiU": "U+1F1F8 U+1F1F7",
-        "languages": [
-          {
-            "name": "Dutch",
-            "native": "Nederlands"
-          }
-        ],
-        "currency": "SRD"
+        "languages": [{ "name": "Dutch", "native": "Nederlands" }],
+        "currency": "SRD",
+        "population": 575991
       },
       {
         "code": "SS",
@@ -3484,13 +2517,9 @@
         "native": "South Sudan",
         "emoji": "🇸🇸",
         "emojiU": "U+1F1F8 U+1F1F8",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "SSP"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "SSP",
+        "population": 10975920
       },
       {
         "code": "ST",
@@ -3499,13 +2528,9 @@
         "native": "São Tomé e Príncipe",
         "emoji": "🇸🇹",
         "emojiU": "U+1F1F8 U+1F1F9",
-        "languages": [
-          {
-            "name": "Portuguese",
-            "native": "Português"
-          }
-        ],
-        "currency": "STN"
+        "languages": [{ "name": "Portuguese", "native": "Português" }],
+        "currency": "STN",
+        "population": null
       },
       {
         "code": "SV",
@@ -3514,13 +2539,9 @@
         "native": "El Salvador",
         "emoji": "🇸🇻",
         "emojiU": "U+1F1F8 U+1F1FB",
-        "languages": [
-          {
-            "name": "Spanish",
-            "native": "Español"
-          }
-        ],
-        "currency": "SVC,USD"
+        "languages": [{ "name": "Spanish", "native": "Español" }],
+        "currency": "SVC,USD",
+        "population": 6420744
       },
       {
         "code": "SX",
@@ -3530,16 +2551,11 @@
         "emoji": "🇸🇽",
         "emojiU": "U+1F1F8 U+1F1FD",
         "languages": [
-          {
-            "name": "Dutch",
-            "native": "Nederlands"
-          },
-          {
-            "name": "English",
-            "native": "English"
-          }
+          { "name": "Dutch", "native": "Nederlands" },
+          { "name": "English", "native": "English" }
         ],
-        "currency": "ANG"
+        "currency": "ANG",
+        "population": null
       },
       {
         "code": "SY",
@@ -3548,13 +2564,9 @@
         "native": "سوريا",
         "emoji": "🇸🇾",
         "emojiU": "U+1F1F8 U+1F1FE",
-        "languages": [
-          {
-            "name": "Arabic",
-            "native": "العربية"
-          }
-        ],
-        "currency": "SYP"
+        "languages": [{ "name": "Arabic", "native": "العربية" }],
+        "currency": "SYP",
+        "population": 16906283
       },
       {
         "code": "SZ",
@@ -3564,16 +2576,11 @@
         "emoji": "🇸🇿",
         "emojiU": "U+1F1F8 U+1F1FF",
         "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          },
-          {
-            "name": "Swati",
-            "native": "SiSwati"
-          }
+          { "name": "English", "native": "English" },
+          { "name": "Swati", "native": "SiSwati" }
         ],
-        "currency": "SZL"
+        "currency": "SZL",
+        "population": 1136191
       },
       {
         "code": "TC",
@@ -3582,13 +2589,9 @@
         "native": "Turks and Caicos Islands",
         "emoji": "🇹🇨",
         "emojiU": "U+1F1F9 U+1F1E8",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "USD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "USD",
+        "population": 37665
       },
       {
         "code": "TD",
@@ -3598,16 +2601,11 @@
         "emoji": "🇹🇩",
         "emojiU": "U+1F1F9 U+1F1E9",
         "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          },
-          {
-            "name": "Arabic",
-            "native": "العربية"
-          }
+          { "name": "French", "native": "Français" },
+          { "name": "Arabic", "native": "العربية" }
         ],
-        "currency": "XAF"
+        "currency": "XAF",
+        "population": 15477751
       },
       {
         "code": "TF",
@@ -3616,13 +2614,9 @@
         "native": "Territoire des Terres australes et antarctiques fr",
         "emoji": "🇹🇫",
         "emojiU": "U+1F1F9 U+1F1EB",
-        "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          }
-        ],
-        "currency": "EUR"
+        "languages": [{ "name": "French", "native": "Français" }],
+        "currency": "EUR",
+        "population": null
       },
       {
         "code": "TG",
@@ -3631,13 +2625,9 @@
         "native": "Togo",
         "emoji": "🇹🇬",
         "emojiU": "U+1F1F9 U+1F1EC",
-        "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          }
-        ],
-        "currency": "XOF"
+        "languages": [{ "name": "French", "native": "Français" }],
+        "currency": "XOF",
+        "population": 7889094
       },
       {
         "code": "TH",
@@ -3646,13 +2636,9 @@
         "native": "ประเทศไทย",
         "emoji": "🇹🇭",
         "emojiU": "U+1F1F9 U+1F1ED",
-        "languages": [
-          {
-            "name": "Thai",
-            "native": "ไทย / Phasa Thai"
-          }
-        ],
-        "currency": "THB"
+        "languages": [{ "name": "Thai", "native": "ไทย / Phasa Thai" }],
+        "currency": "THB",
+        "population": 69428524
       },
       {
         "code": "TJ",
@@ -3662,16 +2648,11 @@
         "emoji": "🇹🇯",
         "emojiU": "U+1F1F9 U+1F1EF",
         "languages": [
-          {
-            "name": "Tajik",
-            "native": "Тоҷикӣ"
-          },
-          {
-            "name": "Russian",
-            "native": "Русский"
-          }
+          { "name": "Tajik", "native": "Тоҷикӣ" },
+          { "name": "Russian", "native": "Русский" }
         ],
-        "currency": "TJS"
+        "currency": "TJS",
+        "population": 9100837
       },
       {
         "code": "TK",
@@ -3680,13 +2661,9 @@
         "native": "Tokelau",
         "emoji": "🇹🇰",
         "emojiU": "U+1F1F9 U+1F1F0",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "NZD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "NZD",
+        "population": 1411
       },
       {
         "code": "TL",
@@ -3695,13 +2672,9 @@
         "native": "Timor-Leste",
         "emoji": "🇹🇱",
         "emojiU": "U+1F1F9 U+1F1F1",
-        "languages": [
-          {
-            "name": "Portuguese",
-            "native": "Português"
-          }
-        ],
-        "currency": "USD"
+        "languages": [{ "name": "Portuguese", "native": "Português" }],
+        "currency": "USD",
+        "population": 1267972
       },
       {
         "code": "TM",
@@ -3711,16 +2684,11 @@
         "emoji": "🇹🇲",
         "emojiU": "U+1F1F9 U+1F1F2",
         "languages": [
-          {
-            "name": "Turkmen",
-            "native": "Туркмен / تركمن"
-          },
-          {
-            "name": "Russian",
-            "native": "Русский"
-          }
+          { "name": "Turkmen", "native": "Туркмен / تركمن" },
+          { "name": "Russian", "native": "Русский" }
         ],
-        "currency": "TMT"
+        "currency": "TMT",
+        "population": 5850908
       },
       {
         "code": "TN",
@@ -3729,13 +2697,9 @@
         "native": "تونس",
         "emoji": "🇹🇳",
         "emojiU": "U+1F1F9 U+1F1F3",
-        "languages": [
-          {
-            "name": "Arabic",
-            "native": "العربية"
-          }
-        ],
-        "currency": "TND"
+        "languages": [{ "name": "Arabic", "native": "العربية" }],
+        "currency": "TND",
+        "population": 11565204
       },
       {
         "code": "TO",
@@ -3745,16 +2709,11 @@
         "emoji": "🇹🇴",
         "emojiU": "U+1F1F9 U+1F1F4",
         "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          },
-          {
-            "name": "Tonga",
-            "native": "Lea Faka-Tonga"
-          }
+          { "name": "English", "native": "English" },
+          { "name": "Tonga", "native": "Lea Faka-Tonga" }
         ],
-        "currency": "TOP"
+        "currency": "TOP",
+        "population": 103197
       },
       {
         "code": "TR",
@@ -3763,13 +2722,9 @@
         "native": "Türkiye",
         "emoji": "🇹🇷",
         "emojiU": "U+1F1F9 U+1F1F7",
-        "languages": [
-          {
-            "name": "Turkish",
-            "native": "Türkçe"
-          }
-        ],
-        "currency": "TRY"
+        "languages": [{ "name": "Turkish", "native": "Türkçe" }],
+        "currency": "TRY",
+        "population": 82319724
       },
       {
         "code": "TT",
@@ -3778,13 +2733,9 @@
         "native": "Trinidad and Tobago",
         "emoji": "🇹🇹",
         "emojiU": "U+1F1F9 U+1F1F9",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "TTD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "TTD",
+        "population": 1389858
       },
       {
         "code": "TV",
@@ -3793,13 +2744,9 @@
         "native": "Tuvalu",
         "emoji": "🇹🇻",
         "emojiU": "U+1F1F9 U+1F1FB",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "AUD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "AUD",
+        "population": 11508
       },
       {
         "code": "TW",
@@ -3808,13 +2755,9 @@
         "native": "臺灣",
         "emoji": "🇹🇼",
         "emojiU": "U+1F1F9 U+1F1FC",
-        "languages": [
-          {
-            "name": "Chinese",
-            "native": "中文"
-          }
-        ],
-        "currency": "TWD"
+        "languages": [{ "name": "Chinese", "native": "中文" }],
+        "currency": "TWD",
+        "population": null
       },
       {
         "code": "TZ",
@@ -3824,16 +2767,11 @@
         "emoji": "🇹🇿",
         "emojiU": "U+1F1F9 U+1F1FF",
         "languages": [
-          {
-            "name": "Swahili",
-            "native": "Kiswahili"
-          },
-          {
-            "name": "English",
-            "native": "English"
-          }
+          { "name": "Swahili", "native": "Kiswahili" },
+          { "name": "English", "native": "English" }
         ],
-        "currency": "TZS"
+        "currency": "TZS",
+        "population": 56318348
       },
       {
         "code": "UA",
@@ -3842,13 +2780,9 @@
         "native": "Україна",
         "emoji": "🇺🇦",
         "emojiU": "U+1F1FA U+1F1E6",
-        "languages": [
-          {
-            "name": "Ukrainian",
-            "native": "Українська"
-          }
-        ],
-        "currency": "UAH"
+        "languages": [{ "name": "Ukrainian", "native": "Українська" }],
+        "currency": "UAH",
+        "population": 44622516
       },
       {
         "code": "UG",
@@ -3858,16 +2792,11 @@
         "emoji": "🇺🇬",
         "emojiU": "U+1F1FA U+1F1EC",
         "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          },
-          {
-            "name": "Swahili",
-            "native": "Kiswahili"
-          }
+          { "name": "English", "native": "English" },
+          { "name": "Swahili", "native": "Kiswahili" }
         ],
-        "currency": "UGX"
+        "currency": "UGX",
+        "population": 42723139
       },
       {
         "code": "UM",
@@ -3876,13 +2805,9 @@
         "native": "United States Minor Outlying Islands",
         "emoji": "🇺🇲",
         "emojiU": "U+1F1FA U+1F1F2",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "USD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "USD",
+        "population": null
       },
       {
         "code": "US",
@@ -3891,13 +2816,9 @@
         "native": "United States",
         "emoji": "🇺🇸",
         "emojiU": "U+1F1FA U+1F1F8",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "USD,USN,USS"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "USD,USN,USS",
+        "population": 326687501
       },
       {
         "code": "UY",
@@ -3906,13 +2827,9 @@
         "native": "Uruguay",
         "emoji": "🇺🇾",
         "emojiU": "U+1F1FA U+1F1FE",
-        "languages": [
-          {
-            "name": "Spanish",
-            "native": "Español"
-          }
-        ],
-        "currency": "UYI,UYU"
+        "languages": [{ "name": "Spanish", "native": "Español" }],
+        "currency": "UYI,UYU",
+        "population": 3449299
       },
       {
         "code": "UZ",
@@ -3922,16 +2839,11 @@
         "emoji": "🇺🇿",
         "emojiU": "U+1F1FA U+1F1FF",
         "languages": [
-          {
-            "name": "Uzbek",
-            "native": "Ўзбек"
-          },
-          {
-            "name": "Russian",
-            "native": "Русский"
-          }
+          { "name": "Uzbek", "native": "Ўзбек" },
+          { "name": "Russian", "native": "Русский" }
         ],
-        "currency": "UZS"
+        "currency": "UZS",
+        "population": 32955400
       },
       {
         "code": "VA",
@@ -3941,16 +2853,11 @@
         "emoji": "🇻🇦",
         "emojiU": "U+1F1FB U+1F1E6",
         "languages": [
-          {
-            "name": "Italian",
-            "native": "Italiano"
-          },
-          {
-            "name": "Latin",
-            "native": "Latina"
-          }
+          { "name": "Italian", "native": "Italiano" },
+          { "name": "Latin", "native": "Latina" }
         ],
-        "currency": "EUR"
+        "currency": "EUR",
+        "population": null
       },
       {
         "code": "VC",
@@ -3959,13 +2866,9 @@
         "native": "Saint Vincent and the Grenadines",
         "emoji": "🇻🇨",
         "emojiU": "U+1F1FB U+1F1E8",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "XCD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "XCD",
+        "population": 110210
       },
       {
         "code": "VE",
@@ -3974,13 +2877,9 @@
         "native": "Venezuela",
         "emoji": "🇻🇪",
         "emojiU": "U+1F1FB U+1F1EA",
-        "languages": [
-          {
-            "name": "Spanish",
-            "native": "Español"
-          }
-        ],
-        "currency": "VES"
+        "languages": [{ "name": "Spanish", "native": "Español" }],
+        "currency": "VES",
+        "population": 28870195
       },
       {
         "code": "VG",
@@ -3989,13 +2888,9 @@
         "native": "British Virgin Islands",
         "emoji": "🇻🇬",
         "emojiU": "U+1F1FB U+1F1EC",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "USD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "USD",
+        "population": null
       },
       {
         "code": "VI",
@@ -4004,13 +2899,9 @@
         "native": "United States Virgin Islands",
         "emoji": "🇻🇮",
         "emojiU": "U+1F1FB U+1F1EE",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "USD"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "USD",
+        "population": null
       },
       {
         "code": "VN",
@@ -4019,13 +2910,9 @@
         "native": "Việt Nam",
         "emoji": "🇻🇳",
         "emojiU": "U+1F1FB U+1F1F3",
-        "languages": [
-          {
-            "name": "Vietnamese",
-            "native": "Tiếng Việt"
-          }
-        ],
-        "currency": "VND"
+        "languages": [{ "name": "Vietnamese", "native": "Tiếng Việt" }],
+        "currency": "VND",
+        "population": 95540395
       },
       {
         "code": "VU",
@@ -4035,20 +2922,12 @@
         "emoji": "🇻🇺",
         "emojiU": "U+1F1FB U+1F1FA",
         "languages": [
-          {
-            "name": "Bislama",
-            "native": "Bislama"
-          },
-          {
-            "name": "English",
-            "native": "English"
-          },
-          {
-            "name": "French",
-            "native": "Français"
-          }
+          { "name": "Bislama", "native": "Bislama" },
+          { "name": "English", "native": "English" },
+          { "name": "French", "native": "Français" }
         ],
-        "currency": "VUV"
+        "currency": "VUV",
+        "population": 292680
       },
       {
         "code": "WF",
@@ -4057,13 +2936,9 @@
         "native": "Wallis et Futuna",
         "emoji": "🇼🇫",
         "emojiU": "U+1F1FC U+1F1EB",
-        "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          }
-        ],
-        "currency": "XPF"
+        "languages": [{ "name": "French", "native": "Français" }],
+        "currency": "XPF",
+        "population": 15289
       },
       {
         "code": "WS",
@@ -4073,16 +2948,11 @@
         "emoji": "🇼🇸",
         "emojiU": "U+1F1FC U+1F1F8",
         "languages": [
-          {
-            "name": "Samoan",
-            "native": "Gagana Samoa"
-          },
-          {
-            "name": "English",
-            "native": "English"
-          }
+          { "name": "Samoan", "native": "Gagana Samoa" },
+          { "name": "English", "native": "English" }
         ],
-        "currency": "WST"
+        "currency": "WST",
+        "population": 196130
       },
       {
         "code": "XK",
@@ -4092,16 +2962,11 @@
         "emoji": "🇽🇰",
         "emojiU": "U+1F1FD U+1F1F0",
         "languages": [
-          {
-            "name": "Albanian",
-            "native": "Shqip"
-          },
-          {
-            "name": "Serbian",
-            "native": "Српски"
-          }
+          { "name": "Albanian", "native": "Shqip" },
+          { "name": "Serbian", "native": "Српски" }
         ],
-        "currency": "EUR"
+        "currency": "EUR",
+        "population": null
       },
       {
         "code": "YE",
@@ -4110,13 +2975,9 @@
         "native": "اليَمَن",
         "emoji": "🇾🇪",
         "emojiU": "U+1F1FE U+1F1EA",
-        "languages": [
-          {
-            "name": "Arabic",
-            "native": "العربية"
-          }
-        ],
-        "currency": "YER"
+        "languages": [{ "name": "Arabic", "native": "العربية" }],
+        "currency": "YER",
+        "population": 28498687
       },
       {
         "code": "YT",
@@ -4125,13 +2986,9 @@
         "native": "Mayotte",
         "emoji": "🇾🇹",
         "emojiU": "U+1F1FE U+1F1F9",
-        "languages": [
-          {
-            "name": "French",
-            "native": "Français"
-          }
-        ],
-        "currency": "EUR"
+        "languages": [{ "name": "French", "native": "Français" }],
+        "currency": "EUR",
+        "population": 270372
       },
       {
         "code": "ZA",
@@ -4141,48 +2998,19 @@
         "emoji": "🇿🇦",
         "emojiU": "U+1F1FF U+1F1E6",
         "languages": [
-          {
-            "name": "Afrikaans",
-            "native": "Afrikaans"
-          },
-          {
-            "name": "English",
-            "native": "English"
-          },
-          {
-            "name": "South Ndebele",
-            "native": "isiNdebele"
-          },
-          {
-            "name": "Southern Sotho",
-            "native": "Sesotho"
-          },
-          {
-            "name": "Swati",
-            "native": "SiSwati"
-          },
-          {
-            "name": "Tswana",
-            "native": "Setswana"
-          },
-          {
-            "name": "Tsonga",
-            "native": "Xitsonga"
-          },
-          {
-            "name": "Venda",
-            "native": "Tshivenḓa"
-          },
-          {
-            "name": "Xhosa",
-            "native": "isiXhosa"
-          },
-          {
-            "name": "Zulu",
-            "native": "isiZulu"
-          }
+          { "name": "Afrikaans", "native": "Afrikaans" },
+          { "name": "English", "native": "English" },
+          { "name": "South Ndebele", "native": "isiNdebele" },
+          { "name": "Southern Sotho", "native": "Sesotho" },
+          { "name": "Swati", "native": "SiSwati" },
+          { "name": "Tswana", "native": "Setswana" },
+          { "name": "Tsonga", "native": "Xitsonga" },
+          { "name": "Venda", "native": "Tshivenḓa" },
+          { "name": "Xhosa", "native": "isiXhosa" },
+          { "name": "Zulu", "native": "isiZulu" }
         ],
-        "currency": "ZAR"
+        "currency": "ZAR",
+        "population": 57779622
       },
       {
         "code": "ZM",
@@ -4191,13 +3019,9 @@
         "native": "Zambia",
         "emoji": "🇿🇲",
         "emojiU": "U+1F1FF U+1F1F2",
-        "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          }
-        ],
-        "currency": "ZMW"
+        "languages": [{ "name": "English", "native": "English" }],
+        "currency": "ZMW",
+        "population": 17351822
       },
       {
         "code": "ZW",
@@ -4207,20 +3031,12 @@
         "emoji": "🇿🇼",
         "emojiU": "U+1F1FF U+1F1FC",
         "languages": [
-          {
-            "name": "English",
-            "native": "English"
-          },
-          {
-            "name": "Shona",
-            "native": "chiShona"
-          },
-          {
-            "name": "North Ndebele",
-            "native": "Sindebele"
-          }
+          { "name": "English", "native": "English" },
+          { "name": "Shona", "native": "chiShona" },
+          { "name": "North Ndebele", "native": "Sindebele" }
         ],
-        "currency": "USD,ZAR,BWP,GBP,AUD,CNY,INR,JPY"
+        "currency": "USD,ZAR,BWP,GBP,AUD,CNY,INR,JPY",
+        "population": 14439018
       }
     ]
   }

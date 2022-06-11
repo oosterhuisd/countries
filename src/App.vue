@@ -73,11 +73,12 @@ import ColumnHeader from './components/ColumnHeader.vue'
 
 import { computed, watch, reactive, ref } from 'vue'
 
-const countries = database.data.countries.map((c) => {
-  let p = populations.find((country) => country.country == c.name)
-  c.population = p ? Number(p.population) : null;
-  return c;
-})
+const countries = database.data.countries
+// .map((c) => {
+//   let p = populations.find((country) => country.country == c.name)
+//   c.population = p ? Number(p.population) : null;
+//   return c;
+// })
 const alphabet = [...Array(26)].map((_, i) => String.fromCharCode(i + 97)); 
 
 const filters = reactive({
@@ -123,7 +124,7 @@ const filteredCountries = computed(() => {
 });
 
 const sortedCountries = computed(() => {
-  let [c, d] = sortOrder.value == 'asc' ? [-1,1] : [1,-1];    
+  let [c, d] = sortOrder.value == 'asc' ? [1,-1] : [-1,1];    
   return [...filteredCountries.value].sort((a, b) => { 
     if (a[sortColumn.value] === null) return d;
     if (b[sortColumn.value] === null) return c;

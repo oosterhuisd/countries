@@ -5,7 +5,7 @@
         :class="{ 'cursor-pointer': column.sortable != false, 'justify-end': column.type && column.type == 'numeric'}"
         @click.stop="changeSortOrder"
     >
-      {{ column.label ?? '' }}
+      {{ column.label ?? column.name }}
       <span v-if="sortStatus == 'asc'">
         <ChevronDownIcon size="1.5x" class="text-gray-300 flex-shrink-0 w-4 h-4 ml-2" />
       </span>
