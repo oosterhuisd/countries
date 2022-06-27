@@ -1,5 +1,8 @@
 #!/usr/bin/env sh
 
+# This script will deploy the application on branch main to 
+# https://oosterhuisd.github.io/countries
+
 # abort on errors
 set -e
 

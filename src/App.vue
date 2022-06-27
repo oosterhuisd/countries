@@ -61,6 +61,14 @@
         <td class="p-2 text-right">{{ country.population?.toLocaleString('nl-NL') }}</td>
         <td class="p-2">{{ country.code }}</td>
         <td class="p-2">{{ country.languages.map((l) => l.name).join(', ') }}</td>
+        <td class="p-2">
+          <span class="text-xs font-semibold inline-block py-1 px-2 rounded-full uppercase last:mr-0 mr-1" 
+          v-for="(c, i) in country.currency?.split(',')" :key="i"
+          :class="tagColor(c)"
+          >
+            {{ c }}  
+          </span>
+        </td>
       </tr>
     </table>
   </div>
@@ -98,6 +106,7 @@ const columns = [
   { name: 'population', label: 'Inwoners', type: 'numeric' },
   { name: 'code', label: 'Landcode' },
   { name: 'languages', label: 'Talen', sortable: false },
+  { name: 'currencies', label: 'Valuta', sortable: false },
 ];
 
 // Sorteren
@@ -131,5 +140,22 @@ const sortedCountries = computed(() => {
     return a[sortColumn.value] > b[sortColumn.value] ? c : d
   });
 });
+
+const availableColors = [
+  'bg-red-200 text-red-600',
+  'bg-orange-200 text-orange-600',
+  'bg-green-200 text-green-600',
+  'bg-indigo-200 text-indigo-600',
+  'bg-yellow-200 text-yellow-600',
+  'bg-emerald-200 text-emerald-600',
+  'bg-pink-200 text-pink-600'
+  ];
+const tagColors = {}
+function tagColor(currency) {
+  if (!tagColors[currency]) {
+    tagColors[currency] = availableColors[Math.floor(Math.random() * availableColors.length)]
+  }
+  return tagColors[currency]
+}
 
 </script>
